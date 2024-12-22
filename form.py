@@ -8,6 +8,10 @@ st.title("UniForMe")
 with st.form("uni_form"):
     course_type = st.radio("Course Type", ["Specialized", "General Computer Science"])
 
+    specialized_detail = None
+    if course_type == "Specialized":
+        specialized_detail = st.text_input("Please specify your specialization")
+
     language = st.radio("Preferred Language", ["English (En)", "German (De)"])
 
     num_semesters = st.selectbox("Number of Semesters", [2, 3, 4, 5, 6, 7, 8])
@@ -27,6 +31,7 @@ with st.form("uni_form"):
 if submitted:
     form_data = {
         "Course Type": course_type,
+        "Specialze Subject" : specialized_detail,
         "Language": language,
         "Number of Semesters": num_semesters,
         "Type": university_type,
