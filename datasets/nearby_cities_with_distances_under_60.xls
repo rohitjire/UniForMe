@@ -1,10 +1,10 @@
 City,Nearby City,Distance (km)
 Potsdam,Berlin,26.14
 Potsdam,Wildau,40.21
-Potsdam,Bergholz-Rehbrücke,7.05
-Stuttgart,Tübingen,30.18
+Potsdam,Bergholz-RehbrÃ¼cke,7.05
+Stuttgart,TÃ¼bingen,30.18
 Stuttgart,Heilbronn,40.56
-Stuttgart,Nürtingen,20.44
+Stuttgart,NÃ¼rtingen,20.44
 Stuttgart,Reutlingen,31.94
 Stuttgart,Pforzheim,37.19
 Stuttgart,Esslingen am Neckar,10.16
@@ -12,24 +12,24 @@ Stuttgart,Geislingen an der Steige,51.42
 Deggendorf,Passau,40.95
 Deggendorf,Cham,54.35
 Deggendorf,Pfarrkirchen,39.12
-Paderborn,Gütersloh,33.28
+Paderborn,GÃ¼tersloh,33.28
 Paderborn,Soest,47.58
 Paderborn,Bielefeld,36.85
 Paderborn,Lemgo,36.02
 Paderborn,Detmold,25.84
-Paderborn,Höxter,42.03
+Paderborn,HÃ¶xter,42.03
 Passau,Deggendorf,40.95
 Passau,Pfarrkirchen,41.74
 Siegen,Marburg,52.98
 Siegen,Gummersbach,36.67
-Siegen,Gießen,55.95
+Siegen,GieÃŸen,55.95
 Siegen,Sankt Augustin,59.95
-Bonn,Köln,24.72
+Bonn,KÃ¶ln,24.72
 Bonn,Wuppertal,59.06
 Bonn,Gummersbach,45.93
 Bonn,Koblenz,54.96
-Bonn,Düsseldorf,59.14
-Bonn,Jülich,56.22
+Bonn,DÃ¼sseldorf,59.14
+Bonn,JÃ¼lich,56.22
 Bonn,Rheinbach,16.31
 Bonn,Sankt Augustin,7.59
 Bonn,Remagen,19.52
@@ -37,7 +37,7 @@ Bingen am Rhein,Kaiserslautern,59.01
 Bingen am Rhein,Frankfurt am Main,58.63
 Bingen am Rhein,Koblenz,47.97
 Bingen am Rhein,Darmstadt,56.7
-Bingen am Rhein,Bad Homburg vor der Höhe,59.19
+Bingen am Rhein,Bad Homburg vor der HÃ¶he,59.19
 Bingen am Rhein,Mainz,27.43
 Bingen am Rhein,Idstein,38.95
 Bingen am Rhein,Weidenbach,20.79
@@ -51,43 +51,43 @@ Kaiserslautern,Mannheim,50.88
 Kaiserslautern,Birkenfeld,49.35
 Kaiserslautern,Landau in der Pfalz,36.95
 Kaiserslautern,Worms,47.7
-Kaiserslautern,Zweibrücken,36.52
+Kaiserslautern,ZweibrÃ¼cken,36.52
 Kaiserslautern,Pirmasens,29.48
 Konstanz,Weingarten,38.79
 Konstanz,Riedlingen,59.35
 Weimar,Ilmenau,43.47
 Weimar,Jena,19.09
 Weimar,Erfurt,20.99
-Köln,Bonn,24.72
-Köln,Wuppertal,39.32
-Köln,Gummersbach,43.5
-Köln,Duisburg,57.0
-Köln,Düsseldorf,34.43
-Köln,Mönchengladbach,46.54
-Köln,Essen,57.97
-Köln,Jülich,42.14
-Köln,Rheinbach,34.79
-Köln,Sankt Augustin,24.3
-Köln,Remagen,44.22
+KÃ¶ln,Bonn,24.72
+KÃ¶ln,Wuppertal,39.32
+KÃ¶ln,Gummersbach,43.5
+KÃ¶ln,Duisburg,57
+KÃ¶ln,DÃ¼sseldorf,34.43
+KÃ¶ln,MÃ¶nchengladbach,46.54
+KÃ¶ln,Essen,57.97
+KÃ¶ln,JÃ¼lich,42.14
+KÃ¶ln,Rheinbach,34.79
+KÃ¶ln,Sankt Augustin,24.3
+KÃ¶ln,Remagen,44.22
 Schmalkalden,Ilmenau,32.95
 Schmalkalden,Fulda,57.83
 Schmalkalden,Erfurt,49.69
 Hannover,Braunschweig,54.91
-Hannover,Wolfenbüttel,59.25
+Hannover,WolfenbÃ¼ttel,59.25
 Hannover,Hildesheim,28.65
 Freiburg im Breisgau,Offenburg,53.11
 Freiburg im Breisgau,Furtwangen im Schwarzwald,27.4
 Freiburg im Breisgau,Villingen-Schwenningen,48.69
 Freiburg im Breisgau,Gengenbach,46.95
 Wuppertal,Bonn,59.06
-Wuppertal,Köln,39.32
+Wuppertal,KÃ¶ln,39.32
 Wuppertal,Bochum,24.4
 Wuppertal,Kamp-Lintfort,51.23
 Wuppertal,Dortmund,34.27
 Wuppertal,Gummersbach,37.64
 Wuppertal,Duisburg,34.81
-Wuppertal,Düsseldorf,28.38
-Wuppertal,Mönchengladbach,52.45
+Wuppertal,DÃ¼sseldorf,28.38
+Wuppertal,MÃ¶nchengladbach,52.45
 Wuppertal,Essen,24.38
 Wuppertal,Sankt Augustin,54.38
 Wuppertal,Witten,22.14
@@ -103,10 +103,10 @@ Bayreuth,Weiden in der Oberpfalz,51.66
 Freiberg,Dresden,31.42
 Freiberg,Chemnitz,31.29
 Freiberg,Tharandt,18.28
-Magdeburg,Köthen / Anhalt,48.16
-Magdeburg,Dessau-Roßlau,51.53
+Magdeburg,KÃ¶then / Anhalt,48.16
+Magdeburg,Dessau-RoÃŸlau,51.53
 Magdeburg,Bernburg / Saale,38.28
-Magdeburg,Möckern,21.48
+Magdeburg,MÃ¶ckern,21.48
 Heidelberg,Darmstadt,52.94
 Heidelberg,Heilbronn,48.33
 Heidelberg,Mannheim,18.73
@@ -115,59 +115,59 @@ Heidelberg,Dieburg,54.97
 Heidelberg,Landau in der Pfalz,48.42
 Heidelberg,Pforzheim,57.66
 Heidelberg,Worms,34.41
-Göttingen,Kassel,38.84
-Göttingen,Höxter,49.89
-Göttingen,Witzenhausen,23.11
-Saarbrücken,Birkenfeld,47.69
-Saarbrücken,Zweibrücken,26.83
-Saarbrücken,Pirmasens,44.78
+GÃ¶ttingen,Kassel,38.84
+GÃ¶ttingen,HÃ¶xter,49.89
+GÃ¶ttingen,Witzenhausen,23.11
+SaarbrÃ¼cken,Birkenfeld,47.69
+SaarbrÃ¼cken,ZweibrÃ¼cken,26.83
+SaarbrÃ¼cken,Pirmasens,44.78
 Marburg,Siegen,52.98
 Marburg,Friedberg (Hessen),52.71
-Marburg,Gießen,25.7
+Marburg,GieÃŸen,25.7
 Rostock,Wismar,49.45
 Bochum,Wuppertal,24.4
 Bochum,Kamp-Lintfort,46.71
 Bochum,Dortmund,17.43
 Bochum,Gummersbach,55.91
 Bochum,Duisburg,32.4
-Bochum,Düsseldorf,42.04
+Bochum,DÃ¼sseldorf,42.04
 Bochum,Essen,14.41
 Bochum,Witten,9.45
-Garching b. München,München,13.89
-Garching b. München,Augsburg,57.37
-Garching b. München,Ingolstadt,59.29
-Garching b. München,Rosenheim,56.69
-Garching b. München,Freising,17.99
-Tübingen,Stuttgart,30.18
-Tübingen,Nürtingen,23.99
-Tübingen,Reutlingen,12.08
-Tübingen,Riedlingen,51.38
-Tübingen,Pforzheim,48.62
-Tübingen,Esslingen am Neckar,31.0
-Tübingen,Geislingen an der Steige,58.92
+Garching b. MÃ¼nchen,MÃ¼nchen,13.89
+Garching b. MÃ¼nchen,Augsburg,57.37
+Garching b. MÃ¼nchen,Ingolstadt,59.29
+Garching b. MÃ¼nchen,Rosenheim,56.69
+Garching b. MÃ¼nchen,Freising,17.99
+TÃ¼bingen,Stuttgart,30.18
+TÃ¼bingen,NÃ¼rtingen,23.99
+TÃ¼bingen,Reutlingen,12.08
+TÃ¼bingen,Riedlingen,51.38
+TÃ¼bingen,Pforzheim,48.62
+TÃ¼bingen,Esslingen am Neckar,31
+TÃ¼bingen,Geislingen an der Steige,58.92
 Kamp-Lintfort,Wuppertal,51.23
 Kamp-Lintfort,Bochum,46.71
 Kamp-Lintfort,Duisburg,16.48
-Kamp-Lintfort,Düsseldorf,34.62
-Kamp-Lintfort,Mönchengladbach,35.05
+Kamp-Lintfort,DÃ¼sseldorf,34.62
+Kamp-Lintfort,MÃ¶nchengladbach,35.05
 Kamp-Lintfort,Essen,32.86
 Kamp-Lintfort,Kleve,42.8
 Kamp-Lintfort,Witten,55.17
 Braunschweig,Hannover,54.91
-Braunschweig,Wolfenbüttel,11.39
+Braunschweig,WolfenbÃ¼ttel,11.39
 Braunschweig,Hildesheim,41.02
 Braunschweig,Wernigerode,51.15
 Braunschweig,Wolfsburg,24.92
-Würzburg,Schweinfurt,36.44
+WÃ¼rzburg,Schweinfurt,36.44
 Bremen,Bremerhaven,54.86
 Bremen,Oldenburg,40.3
 Bremen,Elsfleth,29.41
-Köthen / Anhalt,Magdeburg,48.16
-Köthen / Anhalt,Leipzig,53.47
-Köthen / Anhalt,Halle (Saale),29.88
-Köthen / Anhalt,Dessau-Roßlau,20.7
-Köthen / Anhalt,Bernburg / Saale,16.85
-Köthen / Anhalt,Möckern,43.36
+KÃ¶then / Anhalt,Magdeburg,48.16
+KÃ¶then / Anhalt,Leipzig,53.47
+KÃ¶then / Anhalt,Halle (Saale),29.88
+KÃ¶then / Anhalt,Dessau-RoÃŸlau,20.7
+KÃ¶then / Anhalt,Bernburg / Saale,16.85
+KÃ¶then / Anhalt,MÃ¶ckern,43.36
 Dresden,Freiberg,31.42
 Dresden,Tharandt,13.21
 Ilmenau,Weimar,43.47
@@ -176,52 +176,52 @@ Ilmenau,Jena,54.55
 Ilmenau,Kronach,57.74
 Ilmenau,Coburg,47.8
 Ilmenau,Erfurt,33.37
-Gütersloh,Paderborn,33.28
-Gütersloh,Münster,52.17
-Gütersloh,Soest,41.63
-Gütersloh,Osnabrück,46.56
-Gütersloh,Bielefeld,16.36
-Gütersloh,Lemgo,38.41
-Gütersloh,Detmold,34.62
+GÃ¼tersloh,Paderborn,33.28
+GÃ¼tersloh,MÃ¼nster,52.17
+GÃ¼tersloh,Soest,41.63
+GÃ¼tersloh,OsnabrÃ¼ck,46.56
+GÃ¼tersloh,Bielefeld,16.36
+GÃ¼tersloh,Lemgo,38.41
+GÃ¼tersloh,Detmold,34.62
 Friedberg (Hessen),Marburg,52.71
 Friedberg (Hessen),Frankfurt am Main,25.51
 Friedberg (Hessen),Darmstadt,50.39
-Friedberg (Hessen),Bad Homburg vor der Höhe,15.53
+Friedberg (Hessen),Bad Homburg vor der HÃ¶he,15.53
 Friedberg (Hessen),Dieburg,49.34
 Friedberg (Hessen),Mainz,50.72
-Friedberg (Hessen),Gießen,28.48
+Friedberg (Hessen),GieÃŸen,28.48
 Friedberg (Hessen),Idstein,36.78
 Friedberg (Hessen),Aschaffenburg,48.99
 Friedberg (Hessen),Wiesbaden,46.16
 Erlangen,Bayreuth,58.18
 Erlangen,Bamberg,34.32
-Erlangen,Nürnberg,16.58
+Erlangen,NÃ¼rnberg,16.58
 Erlangen,Ansbach,45.27
 Frankfurt am Main,Bingen am Rhein,58.63
 Frankfurt am Main,Friedberg (Hessen),25.51
 Frankfurt am Main,Darmstadt,25.08
-Frankfurt am Main,Bad Homburg vor der Höhe,13.73
+Frankfurt am Main,Bad Homburg vor der HÃ¶he,13.73
 Frankfurt am Main,Dieburg,26.44
 Frankfurt am Main,Mainz,31.76
-Frankfurt am Main,Gießen,52.9
+Frankfurt am Main,GieÃŸen,52.9
 Frankfurt am Main,Idstein,31.94
 Frankfurt am Main,Weidenbach,57.34
 Frankfurt am Main,Worms,58.17
 Frankfurt am Main,Aschaffenburg,36.21
 Frankfurt am Main,Wiesbaden,31.67
-Aachen,Mönchengladbach,52.68
-Aachen,Jülich,25.38
+Aachen,MÃ¶nchengladbach,52.68
+Aachen,JÃ¼lich,25.38
 Berlin,Potsdam,26.14
 Berlin,Wildau,26.5
 Berlin,Eberswalde,45.12
-Berlin,Bergholz-Rehbrücke,27.29
+Berlin,Bergholz-RehbrÃ¼cke,27.29
 Chemnitz,Zwickau,32.54
 Chemnitz,Freiberg,31.29
 Chemnitz,Tharandt,49.48
 Trier,Birkenfeld,39.52
-Hamburg,Lüneburg,43.13
+Hamburg,LÃ¼neburg,43.13
 Hamburg,Wedel (Holstein),19.96
-Hamburg,Lübeck,57.26
+Hamburg,LÃ¼beck,57.26
 Hof,Bayreuth,48.74
 Hof,Kronach,43.04
 Hof,Kulmbach,41.59
@@ -229,15 +229,15 @@ Dortmund,Wuppertal,34.27
 Dortmund,Bochum,17.43
 Dortmund,Gummersbach,54.55
 Dortmund,Duisburg,49.82
-Dortmund,Münster,51.09
+Dortmund,MÃ¼nster,51.09
 Dortmund,Soest,44.93
-Dortmund,Düsseldorf,57.74
+Dortmund,DÃ¼sseldorf,57.74
 Dortmund,Essen,31.84
 Dortmund,Witten,12.47
-München,Garching b. München,13.89
-München,Augsburg,56.53
-München,Rosenheim,51.84
-München,Freising,31.88
+MÃ¼nchen,Garching b. MÃ¼nchen,13.89
+MÃ¼nchen,Augsburg,56.53
+MÃ¼nchen,Rosenheim,51.84
+MÃ¼nchen,Freising,31.88
 Offenburg,Freiburg im Breisgau,53.11
 Offenburg,Furtwangen im Schwarzwald,50.5
 Offenburg,Gengenbach,9.09
@@ -245,11 +245,11 @@ Offenburg,Kehl,15.06
 Fulda,Schmalkalden,57.83
 Gummersbach,Siegen,36.67
 Gummersbach,Bonn,45.93
-Gummersbach,Köln,43.5
+Gummersbach,KÃ¶ln,43.5
 Gummersbach,Wuppertal,37.64
 Gummersbach,Bochum,55.91
 Gummersbach,Dortmund,54.55
-Gummersbach,Düsseldorf,59.3
+Gummersbach,DÃ¼sseldorf,59.3
 Gummersbach,Sankt Augustin,38.46
 Gummersbach,Remagen,55.19
 Gummersbach,Witten,48.23
@@ -258,7 +258,7 @@ Jena,Ilmenau,54.55
 Jena,Erfurt,39.68
 Bamberg,Bayreuth,49.84
 Bamberg,Erlangen,34.32
-Bamberg,Nürnberg,50.59
+Bamberg,NÃ¼rnberg,50.59
 Bamberg,Kronach,49.96
 Bamberg,Kulmbach,46.48
 Bamberg,Coburg,41.16
@@ -271,27 +271,27 @@ Koblenz,Sankt Augustin,55.01
 Koblenz,Remagen,36.13
 Koblenz,Weidenbach,30.23
 Koblenz,Wiesbaden,55.18
-Duisburg,Köln,57.0
+Duisburg,KÃ¶ln,57
 Duisburg,Wuppertal,34.81
 Duisburg,Bochum,32.4
 Duisburg,Kamp-Lintfort,16.48
 Duisburg,Dortmund,49.82
-Duisburg,Düsseldorf,23.35
-Duisburg,Mönchengladbach,35.01
-Duisburg,Essen,18.0
+Duisburg,DÃ¼sseldorf,23.35
+Duisburg,MÃ¶nchengladbach,35.01
+Duisburg,Essen,18
 Duisburg,Kleve,58.41
 Duisburg,Witten,40.02
-Münster,Gütersloh,52.17
-Münster,Dortmund,51.09
-Münster,Soest,54.63
-Münster,Osnabrück,44.98
-Münster,Steinfurt,26.38
+MÃ¼nster,GÃ¼tersloh,52.17
+MÃ¼nster,Dortmund,51.09
+MÃ¼nster,Soest,54.63
+MÃ¼nster,OsnabrÃ¼ck,44.98
+MÃ¼nster,Steinfurt,26.38
 Darmstadt,Bingen am Rhein,56.7
 Darmstadt,Heidelberg,52.94
 Darmstadt,Friedberg (Hessen),50.39
 Darmstadt,Frankfurt am Main,25.08
 Darmstadt,Mannheim,46.48
-Darmstadt,Bad Homburg vor der Höhe,38.21
+Darmstadt,Bad Homburg vor der HÃ¶he,38.21
 Darmstadt,Dieburg,11.78
 Darmstadt,Mainz,31.4
 Darmstadt,Idstein,47.28
@@ -300,59 +300,59 @@ Darmstadt,Aschaffenburg,34.71
 Darmstadt,Wiesbaden,37.94
 Heilbronn,Stuttgart,40.56
 Heilbronn,Heidelberg,48.33
-Heilbronn,Nürtingen,58.0
+Heilbronn,NÃ¼rtingen,58
 Heilbronn,Pforzheim,46.95
 Heilbronn,Esslingen am Neckar,44.9
-Lüneburg,Hamburg,43.13
-Lüneburg,Wedel (Holstein),59.66
-Leipzig,Köthen / Anhalt,53.47
+LÃ¼neburg,Hamburg,43.13
+LÃ¼neburg,Wedel (Holstein),59.66
+Leipzig,KÃ¶then / Anhalt,53.47
 Leipzig,Halle (Saale),32.25
-Leipzig,Dessau-Roßlau,57.16
+Leipzig,Dessau-RoÃŸlau,57.16
 Soest,Paderborn,47.58
-Soest,Gütersloh,41.63
+Soest,GÃ¼tersloh,41.63
 Soest,Dortmund,44.93
-Soest,Münster,54.63
+Soest,MÃ¼nster,54.63
 Soest,Bielefeld,57.69
 Soest,Witten,55.62
-Düsseldorf,Bonn,59.14
-Düsseldorf,Köln,34.43
-Düsseldorf,Wuppertal,28.38
-Düsseldorf,Bochum,42.04
-Düsseldorf,Kamp-Lintfort,34.62
-Düsseldorf,Dortmund,57.74
-Düsseldorf,Gummersbach,59.3
-Düsseldorf,Duisburg,23.35
-Düsseldorf,Mönchengladbach,24.07
-Düsseldorf,Essen,30.81
-Düsseldorf,Jülich,44.56
-Düsseldorf,Sankt Augustin,57.87
-Düsseldorf,Witten,45.51
-Augsburg,Garching b. München,57.37
-Augsburg,München,56.53
+DÃ¼sseldorf,Bonn,59.14
+DÃ¼sseldorf,KÃ¶ln,34.43
+DÃ¼sseldorf,Wuppertal,28.38
+DÃ¼sseldorf,Bochum,42.04
+DÃ¼sseldorf,Kamp-Lintfort,34.62
+DÃ¼sseldorf,Dortmund,57.74
+DÃ¼sseldorf,Gummersbach,59.3
+DÃ¼sseldorf,Duisburg,23.35
+DÃ¼sseldorf,MÃ¶nchengladbach,24.07
+DÃ¼sseldorf,Essen,30.81
+DÃ¼sseldorf,JÃ¼lich,44.56
+DÃ¼sseldorf,Sankt Augustin,57.87
+DÃ¼sseldorf,Witten,45.51
+Augsburg,Garching b. MÃ¼nchen,57.37
+Augsburg,MÃ¼nchen,56.53
 Augsburg,Ingolstadt,58.59
 Augsburg,Neuburg an der Donau,45.91
 Ulm,Aalen,49.4
 Ulm,Neu-Ulm,0.77
-Ulm,Nürtingen,54.62
+Ulm,NÃ¼rtingen,54.62
 Ulm,Reutlingen,58.62
 Ulm,Riedlingen,47.03
 Ulm,Geislingen an der Steige,27.31
-Mönchengladbach,Köln,46.54
-Mönchengladbach,Wuppertal,52.45
-Mönchengladbach,Kamp-Lintfort,35.05
-Mönchengladbach,Aachen,52.68
-Mönchengladbach,Duisburg,35.01
-Mönchengladbach,Düsseldorf,24.07
-Mönchengladbach,Essen,49.96
-Mönchengladbach,Jülich,30.77
-Osnabrück,Gütersloh,46.56
-Osnabrück,Münster,44.98
-Osnabrück,Bielefeld,43.43
-Osnabrück,Steinfurt,48.78
+MÃ¶nchengladbach,KÃ¶ln,46.54
+MÃ¶nchengladbach,Wuppertal,52.45
+MÃ¶nchengladbach,Kamp-Lintfort,35.05
+MÃ¶nchengladbach,Aachen,52.68
+MÃ¶nchengladbach,Duisburg,35.01
+MÃ¶nchengladbach,DÃ¼sseldorf,24.07
+MÃ¶nchengladbach,Essen,49.96
+MÃ¶nchengladbach,JÃ¼lich,30.77
+OsnabrÃ¼ck,GÃ¼tersloh,46.56
+OsnabrÃ¼ck,MÃ¼nster,44.98
+OsnabrÃ¼ck,Bielefeld,43.43
+OsnabrÃ¼ck,Steinfurt,48.78
 Bielefeld,Paderborn,36.85
-Bielefeld,Gütersloh,16.36
+Bielefeld,GÃ¼tersloh,16.36
 Bielefeld,Soest,57.69
-Bielefeld,Osnabrück,43.43
+Bielefeld,OsnabrÃ¼ck,43.43
 Bielefeld,Lemgo,25.44
 Bielefeld,Detmold,25.64
 Mannheim,Kaiserslautern,50.88
@@ -373,53 +373,53 @@ Furtwangen im Schwarzwald,Offenburg,50.5
 Furtwangen im Schwarzwald,Villingen-Schwenningen,21.44
 Furtwangen im Schwarzwald,Gengenbach,41.69
 Emden,Leer (Ostfriesland),22.4
-Nürnberg,Erlangen,16.58
-Nürnberg,Bamberg,50.59
-Nürnberg,Amberg,55.84
-Nürnberg,Ansbach,41.83
+NÃ¼rnberg,Erlangen,16.58
+NÃ¼rnberg,Bamberg,50.59
+NÃ¼rnberg,Amberg,55.84
+NÃ¼rnberg,Ansbach,41.83
 Amberg,Regensburg,51.68
 Amberg,Bayreuth,57.73
-Amberg,Nürnberg,55.84
+Amberg,NÃ¼rnberg,55.84
 Amberg,Weiden in der Oberpfalz,33.55
 Karlsruhe,Heidelberg,49.54
 Karlsruhe,Mannheim,53.85
 Karlsruhe,Landau in der Pfalz,30.08
 Karlsruhe,Pforzheim,25.45
 Ingolstadt,Regensburg,56.97
-Ingolstadt,Garching b. München,59.29
+Ingolstadt,Garching b. MÃ¼nchen,59.29
 Ingolstadt,Augsburg,58.59
 Ingolstadt,Freising,46.65
-Ingolstadt,Eichstätt,22.88
+Ingolstadt,EichstÃ¤tt,22.88
 Ingolstadt,Neuburg an der Donau,18.28
 Bremerhaven,Bremen,54.86
 Bremerhaven,Oldenburg,52.03
 Bremerhaven,Elsfleth,36.06
-Wolfenbüttel,Hannover,59.25
-Wolfenbüttel,Braunschweig,11.39
-Wolfenbüttel,Hildesheim,39.91
-Wolfenbüttel,Wernigerode,40.39
-Wolfenbüttel,Wolfsburg,33.44
-Bad Homburg vor der Höhe,Bingen am Rhein,59.19
-Bad Homburg vor der Höhe,Friedberg (Hessen),15.53
-Bad Homburg vor der Höhe,Frankfurt am Main,13.73
-Bad Homburg vor der Höhe,Darmstadt,38.21
-Bad Homburg vor der Höhe,Dieburg,40.13
-Bad Homburg vor der Höhe,Mainz,35.24
-Bad Homburg vor der Höhe,Gießen,40.19
-Bad Homburg vor der Höhe,Idstein,24.8
-Bad Homburg vor der Höhe,Weidenbach,53.03
-Bad Homburg vor der Höhe,Aschaffenburg,46.95
-Bad Homburg vor der Höhe,Wiesbaden,31.28
+WolfenbÃ¼ttel,Hannover,59.25
+WolfenbÃ¼ttel,Braunschweig,11.39
+WolfenbÃ¼ttel,Hildesheim,39.91
+WolfenbÃ¼ttel,Wernigerode,40.39
+WolfenbÃ¼ttel,Wolfsburg,33.44
+Bad Homburg vor der HÃ¶he,Bingen am Rhein,59.19
+Bad Homburg vor der HÃ¶he,Friedberg (Hessen),15.53
+Bad Homburg vor der HÃ¶he,Frankfurt am Main,13.73
+Bad Homburg vor der HÃ¶he,Darmstadt,38.21
+Bad Homburg vor der HÃ¶he,Dieburg,40.13
+Bad Homburg vor der HÃ¶he,Mainz,35.24
+Bad Homburg vor der HÃ¶he,GieÃŸen,40.19
+Bad Homburg vor der HÃ¶he,Idstein,24.8
+Bad Homburg vor der HÃ¶he,Weidenbach,53.03
+Bad Homburg vor der HÃ¶he,Aschaffenburg,46.95
+Bad Homburg vor der HÃ¶he,Wiesbaden,31.28
 Hildesheim,Hannover,28.65
 Hildesheim,Braunschweig,41.02
-Hildesheim,Wolfenbüttel,39.91
-Hildesheim,Höxter,57.54
+Hildesheim,WolfenbÃ¼ttel,39.91
+Hildesheim,HÃ¶xter,57.54
 Dieburg,Heidelberg,54.97
 Dieburg,Friedberg (Hessen),49.34
 Dieburg,Frankfurt am Main,26.44
 Dieburg,Darmstadt,11.78
 Dieburg,Mannheim,52.41
-Dieburg,Bad Homburg vor der Höhe,40.13
+Dieburg,Bad Homburg vor der HÃ¶he,40.13
 Dieburg,Mainz,42.07
 Dieburg,Idstein,54.48
 Dieburg,Worms,45.13
@@ -427,7 +427,7 @@ Dieburg,Aschaffenburg,23.23
 Dieburg,Wiesbaden,47.49
 Neu-Ulm,Ulm,0.77
 Neu-Ulm,Aalen,49.65
-Neu-Ulm,Nürtingen,55.39
+Neu-Ulm,NÃ¼rtingen,55.39
 Neu-Ulm,Reutlingen,59.36
 Neu-Ulm,Riedlingen,47.39
 Neu-Ulm,Geislingen an der Steige,27.92
@@ -438,40 +438,40 @@ Kronach,Bamberg,49.96
 Kronach,Kulmbach,17.68
 Kronach,Coburg,25.99
 Wedel (Holstein),Hamburg,19.96
-Wedel (Holstein),Lüneburg,59.66
-Steinfurt,Münster,26.38
-Steinfurt,Osnabrück,48.78
+Wedel (Holstein),LÃ¼neburg,59.66
+Steinfurt,MÃ¼nster,26.38
+Steinfurt,OsnabrÃ¼ck,48.78
 Wismar,Rostock,49.45
-Wismar,Lübeck,51.37
+Wismar,LÃ¼beck,51.37
 Kulmbach,Bayreuth,19.85
 Kulmbach,Hof,41.59
 Kulmbach,Bamberg,46.48
 Kulmbach,Kronach,17.68
 Kulmbach,Coburg,38.71
-Essen,Köln,57.97
+Essen,KÃ¶ln,57.97
 Essen,Wuppertal,24.38
 Essen,Bochum,14.41
 Essen,Kamp-Lintfort,32.86
 Essen,Dortmund,31.84
-Essen,Duisburg,18.0
-Essen,Düsseldorf,30.81
-Essen,Mönchengladbach,49.96
+Essen,Duisburg,18
+Essen,DÃ¼sseldorf,30.81
+Essen,MÃ¶nchengladbach,49.96
 Essen,Witten,22.32
-Rosenheim,Garching b. München,56.69
-Rosenheim,München,51.84
+Rosenheim,Garching b. MÃ¼nchen,56.69
+Rosenheim,MÃ¼nchen,51.84
 Rosenheim,Traunstein,39.04
-Jülich,Bonn,56.22
-Jülich,Köln,42.14
-Jülich,Aachen,25.38
-Jülich,Düsseldorf,44.56
-Jülich,Mönchengladbach,30.77
-Jülich,Rheinbach,52.99
+JÃ¼lich,Bonn,56.22
+JÃ¼lich,KÃ¶ln,42.14
+JÃ¼lich,Aachen,25.38
+JÃ¼lich,DÃ¼sseldorf,44.56
+JÃ¼lich,MÃ¶nchengladbach,30.77
+JÃ¼lich,Rheinbach,52.99
 Mainz,Bingen am Rhein,27.43
 Mainz,Friedberg (Hessen),50.72
 Mainz,Frankfurt am Main,31.76
 Mainz,Darmstadt,31.4
 Mainz,Mannheim,58.44
-Mainz,Bad Homburg vor der Höhe,35.24
+Mainz,Bad Homburg vor der HÃ¶he,35.24
 Mainz,Dieburg,42.07
 Mainz,Idstein,24.67
 Mainz,Weidenbach,32.84
@@ -484,27 +484,27 @@ Coburg,Kronach,25.99
 Coburg,Kulmbach,38.71
 Coburg,Schweinfurt,57.81
 Lemgo,Paderborn,36.02
-Lemgo,Gütersloh,38.41
+Lemgo,GÃ¼tersloh,38.41
 Lemgo,Bielefeld,25.44
 Lemgo,Detmold,10.33
-Lemgo,Höxter,40.34
+Lemgo,HÃ¶xter,40.34
 Weingarten,Konstanz,38.79
 Weingarten,Riedlingen,40.46
-Weingarten,Kempten (Allgäu),51.3
-Halle (Saale),Köthen / Anhalt,29.88
+Weingarten,Kempten (AllgÃ¤u),51.3
+Halle (Saale),KÃ¶then / Anhalt,29.88
 Halle (Saale),Leipzig,32.25
-Halle (Saale),Dessau-Roßlau,44.34
+Halle (Saale),Dessau-RoÃŸlau,44.34
 Halle (Saale),Bernburg / Saale,38.09
-Gießen,Siegen,55.95
-Gießen,Marburg,25.7
-Gießen,Friedberg (Hessen),28.48
-Gießen,Frankfurt am Main,52.9
-Gießen,Bad Homburg vor der Höhe,40.19
-Gießen,Idstein,49.75
+GieÃŸen,Siegen,55.95
+GieÃŸen,Marburg,25.7
+GieÃŸen,Friedberg (Hessen),28.48
+GieÃŸen,Frankfurt am Main,52.9
+GieÃŸen,Bad Homburg vor der HÃ¶he,40.19
+GieÃŸen,Idstein,49.75
 Birkenfeld,Kaiserslautern,49.35
-Birkenfeld,Saarbrücken,47.69
+Birkenfeld,SaarbrÃ¼cken,47.69
 Birkenfeld,Trier,39.52
-Birkenfeld,Zweibrücken,46.8
+Birkenfeld,ZweibrÃ¼cken,46.8
 Birkenfeld,Pirmasens,59.44
 Greifswald,Stralsund,30.8
 Landau in der Pfalz,Kaiserslautern,36.95
@@ -513,35 +513,35 @@ Landau in der Pfalz,Mannheim,41.39
 Landau in der Pfalz,Karlsruhe,30.08
 Landau in der Pfalz,Pforzheim,55.07
 Landau in der Pfalz,Worms,51.35
-Landau in der Pfalz,Zweibrücken,54.78
+Landau in der Pfalz,ZweibrÃ¼cken,54.78
 Landau in der Pfalz,Pirmasens,36.7
-Lübeck,Hamburg,57.26
-Lübeck,Wismar,51.37
+LÃ¼beck,Hamburg,57.26
+LÃ¼beck,Wismar,51.37
 Rheinbach,Bonn,16.31
-Rheinbach,Köln,34.79
+Rheinbach,KÃ¶ln,34.79
 Rheinbach,Koblenz,54.91
-Rheinbach,Jülich,52.99
+Rheinbach,JÃ¼lich,52.99
 Rheinbach,Sankt Augustin,23.78
 Rheinbach,Remagen,20.45
 Oldenburg,Bremen,40.3
 Oldenburg,Bremerhaven,52.03
 Oldenburg,Leer (Ostfriesland),51.73
 Oldenburg,Elsfleth,19.46
-Nürtingen,Stuttgart,20.44
-Nürtingen,Tübingen,23.99
-Nürtingen,Heilbronn,58.0
-Nürtingen,Ulm,54.62
-Nürtingen,Neu-Ulm,55.39
-Nürtingen,Reutlingen,17.59
-Nürtingen,Riedlingen,53.6
-Nürtingen,Pforzheim,55.08
-Nürtingen,Esslingen am Neckar,13.1
-Nürtingen,Geislingen an der Steige,36.92
+NÃ¼rtingen,Stuttgart,20.44
+NÃ¼rtingen,TÃ¼bingen,23.99
+NÃ¼rtingen,Heilbronn,58
+NÃ¼rtingen,Ulm,54.62
+NÃ¼rtingen,Neu-Ulm,55.39
+NÃ¼rtingen,Reutlingen,17.59
+NÃ¼rtingen,Riedlingen,53.6
+NÃ¼rtingen,Pforzheim,55.08
+NÃ¼rtingen,Esslingen am Neckar,13.1
+NÃ¼rtingen,Geislingen an der Steige,36.92
 Reutlingen,Stuttgart,31.94
-Reutlingen,Tübingen,12.08
+Reutlingen,TÃ¼bingen,12.08
 Reutlingen,Ulm,58.62
 Reutlingen,Neu-Ulm,59.36
-Reutlingen,Nürtingen,17.59
+Reutlingen,NÃ¼rtingen,17.59
 Reutlingen,Riedlingen,42.41
 Reutlingen,Pforzheim,58.05
 Reutlingen,Esslingen am Neckar,28.77
@@ -550,43 +550,43 @@ Villingen-Schwenningen,Freiburg im Breisgau,48.69
 Villingen-Schwenningen,Furtwangen im Schwarzwald,21.44
 Villingen-Schwenningen,Gengenbach,51.95
 Riedlingen,Konstanz,59.35
-Riedlingen,Tübingen,51.38
+Riedlingen,TÃ¼bingen,51.38
 Riedlingen,Ulm,47.03
 Riedlingen,Neu-Ulm,47.39
 Riedlingen,Weingarten,40.46
-Riedlingen,Nürtingen,53.6
+Riedlingen,NÃ¼rtingen,53.6
 Riedlingen,Reutlingen,42.41
 Riedlingen,Geislingen an der Steige,58.59
-Kassel,Göttingen,38.84
-Kassel,Höxter,54.19
+Kassel,GÃ¶ttingen,38.84
+Kassel,HÃ¶xter,54.19
 Kassel,Witzenhausen,24.17
 Idstein,Bingen am Rhein,38.95
 Idstein,Friedberg (Hessen),36.78
 Idstein,Frankfurt am Main,31.94
 Idstein,Koblenz,50.31
 Idstein,Darmstadt,47.28
-Idstein,Bad Homburg vor der Höhe,24.8
+Idstein,Bad Homburg vor der HÃ¶he,24.8
 Idstein,Dieburg,54.48
 Idstein,Mainz,24.67
-Idstein,Gießen,49.75
+Idstein,GieÃŸen,49.75
 Idstein,Weidenbach,28.59
 Idstein,Wiesbaden,15.62
 Sankt Augustin,Siegen,59.95
 Sankt Augustin,Bonn,7.59
-Sankt Augustin,Köln,24.3
+Sankt Augustin,KÃ¶ln,24.3
 Sankt Augustin,Wuppertal,54.38
 Sankt Augustin,Gummersbach,38.46
 Sankt Augustin,Koblenz,55.01
-Sankt Augustin,Düsseldorf,57.87
+Sankt Augustin,DÃ¼sseldorf,57.87
 Sankt Augustin,Rheinbach,23.78
 Sankt Augustin,Remagen,21.99
 Pforzheim,Stuttgart,37.19
 Pforzheim,Heidelberg,57.66
-Pforzheim,Tübingen,48.62
+Pforzheim,TÃ¼bingen,48.62
 Pforzheim,Heilbronn,46.95
 Pforzheim,Karlsruhe,25.45
 Pforzheim,Landau in der Pfalz,55.07
-Pforzheim,Nürtingen,55.08
+Pforzheim,NÃ¼rtingen,55.08
 Pforzheim,Reutlingen,58.05
 Pforzheim,Esslingen am Neckar,47.33
 Cham,Deggendorf,54.35
@@ -594,14 +594,14 @@ Cham,Regensburg,47.02
 Pfarrkirchen,Deggendorf,39.12
 Pfarrkirchen,Passau,41.74
 Pfarrkirchen,Burghausen,31.37
-Schweinfurt,Würzburg,36.44
+Schweinfurt,WÃ¼rzburg,36.44
 Schweinfurt,Bamberg,50.91
 Schweinfurt,Coburg,57.81
 Ansbach,Erlangen,45.27
-Ansbach,Nürnberg,41.83
+Ansbach,NÃ¼rnberg,41.83
 Ansbach,Feuchtwangen,21.4
 Remagen,Bonn,19.52
-Remagen,Köln,44.22
+Remagen,KÃ¶ln,44.22
 Remagen,Gummersbach,55.19
 Remagen,Koblenz,36.13
 Remagen,Rheinbach,20.45
@@ -614,28 +614,28 @@ Gengenbach,Kehl,24.14
 Kehl,Offenburg,15.06
 Kehl,Gengenbach,24.14
 Esslingen am Neckar,Stuttgart,10.16
-Esslingen am Neckar,Tübingen,31.0
+Esslingen am Neckar,TÃ¼bingen,31
 Esslingen am Neckar,Heilbronn,44.9
 Esslingen am Neckar,Aalen,58.69
-Esslingen am Neckar,Nürtingen,13.1
+Esslingen am Neckar,NÃ¼rtingen,13.1
 Esslingen am Neckar,Reutlingen,28.77
 Esslingen am Neckar,Pforzheim,47.33
 Esslingen am Neckar,Geislingen an der Steige,41.29
 Wildau,Potsdam,40.21
 Wildau,Berlin,26.5
 Wildau,Eberswalde,58.24
-Wildau,Bergholz-Rehbrücke,36.22
+Wildau,Bergholz-RehbrÃ¼cke,36.22
 Kleve,Kamp-Lintfort,42.8
 Kleve,Duisburg,58.41
 Weidenbach,Bingen am Rhein,20.79
 Weidenbach,Frankfurt am Main,57.34
 Weidenbach,Koblenz,30.23
-Weidenbach,Bad Homburg vor der Höhe,53.03
+Weidenbach,Bad Homburg vor der HÃ¶he,53.03
 Weidenbach,Mainz,32.84
 Weidenbach,Idstein,28.59
 Weidenbach,Wiesbaden,26.88
-Freising,Garching b. München,17.99
-Freising,München,31.88
+Freising,Garching b. MÃ¼nchen,17.99
+Freising,MÃ¼nchen,31.88
 Freising,Ingolstadt,46.65
 Freising,Neuburg an der Donau,55.98
 Eberswalde,Berlin,45.12
@@ -649,15 +649,15 @@ Witten,Dortmund,12.47
 Witten,Gummersbach,48.23
 Witten,Duisburg,40.02
 Witten,Soest,55.62
-Witten,Düsseldorf,45.51
+Witten,DÃ¼sseldorf,45.51
 Witten,Essen,22.32
-Dessau-Roßlau,Magdeburg,51.53
-Dessau-Roßlau,Köthen / Anhalt,20.7
-Dessau-Roßlau,Leipzig,57.16
-Dessau-Roßlau,Halle (Saale),44.34
-Dessau-Roßlau,Bernburg / Saale,34.45
-Dessau-Roßlau,Möckern,37.87
-Kempten (Allgäu),Weingarten,51.3
+Dessau-RoÃŸlau,Magdeburg,51.53
+Dessau-RoÃŸlau,KÃ¶then / Anhalt,20.7
+Dessau-RoÃŸlau,Leipzig,57.16
+Dessau-RoÃŸlau,Halle (Saale),44.34
+Dessau-RoÃŸlau,Bernburg / Saale,34.45
+Dessau-RoÃŸlau,MÃ¶ckern,37.87
+Kempten (AllgÃ¤u),Weingarten,51.3
 Worms,Bingen am Rhein,50.41
 Worms,Kaiserslautern,47.7
 Worms,Heidelberg,34.41
@@ -671,28 +671,28 @@ Worms,Wiesbaden,50.99
 Aschaffenburg,Friedberg (Hessen),48.99
 Aschaffenburg,Frankfurt am Main,36.21
 Aschaffenburg,Darmstadt,34.71
-Aschaffenburg,Bad Homburg vor der Höhe,46.95
+Aschaffenburg,Bad Homburg vor der HÃ¶he,46.95
 Aschaffenburg,Dieburg,23.23
-Zweibrücken,Kaiserslautern,36.52
-Zweibrücken,Saarbrücken,26.83
-Zweibrücken,Birkenfeld,46.8
-Zweibrücken,Landau in der Pfalz,54.78
-Zweibrücken,Pirmasens,18.63
+ZweibrÃ¼cken,Kaiserslautern,36.52
+ZweibrÃ¼cken,SaarbrÃ¼cken,26.83
+ZweibrÃ¼cken,Birkenfeld,46.8
+ZweibrÃ¼cken,Landau in der Pfalz,54.78
+ZweibrÃ¼cken,Pirmasens,18.63
 Stralsund,Greifswald,30.8
 Bernburg / Saale,Magdeburg,38.28
-Bernburg / Saale,Köthen / Anhalt,16.85
+Bernburg / Saale,KÃ¶then / Anhalt,16.85
 Bernburg / Saale,Halle (Saale),38.09
-Bernburg / Saale,Dessau-Roßlau,34.45
-Bernburg / Saale,Möckern,41.36
+Bernburg / Saale,Dessau-RoÃŸlau,34.45
+Bernburg / Saale,MÃ¶ckern,41.36
 Pirmasens,Kaiserslautern,29.48
-Pirmasens,Saarbrücken,44.78
+Pirmasens,SaarbrÃ¼cken,44.78
 Pirmasens,Birkenfeld,59.44
 Pirmasens,Landau in der Pfalz,36.7
-Pirmasens,Zweibrücken,18.63
+Pirmasens,ZweibrÃ¼cken,18.63
 Feuchtwangen,Aalen,40.66
 Feuchtwangen,Ansbach,21.4
 Wernigerode,Braunschweig,51.15
-Wernigerode,Wolfenbüttel,40.39
+Wernigerode,WolfenbÃ¼ttel,40.39
 Elsfleth,Bremen,29.41
 Elsfleth,Bremerhaven,36.06
 Elsfleth,Oldenburg,19.46
@@ -705,57 +705,57 @@ Wiesbaden,Friedberg (Hessen),46.16
 Wiesbaden,Frankfurt am Main,31.67
 Wiesbaden,Koblenz,55.18
 Wiesbaden,Darmstadt,37.94
-Wiesbaden,Bad Homburg vor der Höhe,31.28
+Wiesbaden,Bad Homburg vor der HÃ¶he,31.28
 Wiesbaden,Dieburg,47.49
 Wiesbaden,Mainz,9.46
 Wiesbaden,Idstein,15.62
 Wiesbaden,Weidenbach,26.88
 Wiesbaden,Worms,50.99
 Detmold,Paderborn,25.84
-Detmold,Gütersloh,34.62
+Detmold,GÃ¼tersloh,34.62
 Detmold,Bielefeld,25.64
 Detmold,Lemgo,10.33
-Detmold,Höxter,36.03
-Höxter,Paderborn,42.03
-Höxter,Göttingen,49.89
-Höxter,Hildesheim,57.54
-Höxter,Lemgo,40.34
-Höxter,Kassel,54.19
-Höxter,Detmold,36.03
+Detmold,HÃ¶xter,36.03
+HÃ¶xter,Paderborn,42.03
+HÃ¶xter,GÃ¶ttingen,49.89
+HÃ¶xter,Hildesheim,57.54
+HÃ¶xter,Lemgo,40.34
+HÃ¶xter,Kassel,54.19
+HÃ¶xter,Detmold,36.03
 Erfurt,Weimar,20.99
 Erfurt,Schmalkalden,49.69
 Erfurt,Ilmenau,33.37
 Erfurt,Jena,39.68
 Wolfsburg,Braunschweig,24.92
-Wolfsburg,Wolfenbüttel,33.44
-Möckern,Magdeburg,21.48
-Möckern,Köthen / Anhalt,43.36
-Möckern,Dessau-Roßlau,37.87
-Möckern,Bernburg / Saale,41.36
+Wolfsburg,WolfenbÃ¼ttel,33.44
+MÃ¶ckern,Magdeburg,21.48
+MÃ¶ckern,KÃ¶then / Anhalt,43.36
+MÃ¶ckern,Dessau-RoÃŸlau,37.87
+MÃ¶ckern,Bernburg / Saale,41.36
 Geislingen an der Steige,Stuttgart,51.42
-Geislingen an der Steige,Tübingen,58.92
+Geislingen an der Steige,TÃ¼bingen,58.92
 Geislingen an der Steige,Ulm,27.31
 Geislingen an der Steige,Aalen,30.49
 Geislingen an der Steige,Neu-Ulm,27.92
-Geislingen an der Steige,Nürtingen,36.92
+Geislingen an der Steige,NÃ¼rtingen,36.92
 Geislingen an der Steige,Reutlingen,48.4
 Geislingen an der Steige,Riedlingen,58.59
 Geislingen an der Steige,Esslingen am Neckar,41.29
-Eichstätt,Ingolstadt,22.88
-Eichstätt,Neuburg an der Donau,17.37
-Witzenhausen,Göttingen,23.11
+EichstÃ¤tt,Ingolstadt,22.88
+EichstÃ¤tt,Neuburg an der Donau,17.37
+Witzenhausen,GÃ¶ttingen,23.11
 Witzenhausen,Kassel,24.17
 Weiden in der Oberpfalz,Bayreuth,51.66
 Weiden in der Oberpfalz,Amberg,33.55
-Bergholz-Rehbrücke,Potsdam,7.05
-Bergholz-Rehbrücke,Berlin,27.29
-Bergholz-Rehbrücke,Wildau,36.22
-Görlitz,Zittau,31.71
-Zittau,Görlitz,31.71
+Bergholz-RehbrÃ¼cke,Potsdam,7.05
+Bergholz-RehbrÃ¼cke,Berlin,27.29
+Bergholz-RehbrÃ¼cke,Wildau,36.22
+GÃ¶rlitz,Zittau,31.71
+Zittau,GÃ¶rlitz,31.71
 Tharandt,Freiberg,18.28
 Tharandt,Dresden,13.21
 Tharandt,Chemnitz,49.48
 Neuburg an der Donau,Augsburg,45.91
 Neuburg an der Donau,Ingolstadt,18.28
 Neuburg an der Donau,Freising,55.98
-Neuburg an der Donau,Eichstätt,17.37
+Neuburg an der Donau,EichstÃ¤tt,17.37
