@@ -12,13 +12,13 @@ with st.form("uni_form"):
     if course_type == "Specialized":
         specialized_detail = st.text_input("Please specify your specialization")
 
-    language = st.radio("Preferred Language", ["English (En)", "German (De)"])
+    language = st.multiselect("Preferred Language", ["English", "German"])
 
     num_semesters = st.selectbox("Number of Semesters", [2, 3, 4, 5, 6, 7, 8])
 
-    university_type = st.radio("Type", ["Public", "Private"])
+    fees = st.slider("Fees", 0, 10000, 5000)
 
-    uni_type = st.radio("University Type", ["TU", "TH"])
+    uni_type = st.radio("University Type", ["Technical University/Technische Universitat", "Technische Hochshule/University of Applied Sciences"])
 
     city_area = st.slider("City Area Preference", 0.0, 1.0, 0.5)
 
@@ -34,7 +34,7 @@ if submitted:
         "Specialze Subject" : specialized_detail,
         "Language": language,
         "Number of Semesters": num_semesters,
-        "Type": university_type,
+        "Financials": fees,
         "University Type": uni_type,
         "City Area": city_area,
         "Job Opportunities": job_opportunities,
