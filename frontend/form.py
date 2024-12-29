@@ -3,41 +3,67 @@ import streamlit as st
 def process_form_data(data):
     st.write("Form Data Received:", data)
 
+university_data = {
+    "uni 1": ["computer science", "data science"],
+    "uni 2": ["computer science"],
+    "uni 3": ["software engineering"]
+}
+
 st.title("UniForMe")
 
-with st.form("uni_form"):
-    course_type = st.radio("Course Type", ["Specialized", "General Computer Science"])
+user_preference , by_university = st.tabs(["By User Preference", "By University"])
 
-    specialized_detail = None
-    if course_type == "Specialized":
-        specialized_detail = st.text_input("Please specify your specialization")
+with user_preference:
 
-    language = st.multiselect("Preferred Language", ["English", "German"])
+    with st.form("uni_form"):
+        course_type = st.radio("Course Type", ["Specialized", "General Computer Science"])
 
-    num_semesters = st.selectbox("Number of Semesters", [2, 3, 4, 5, 6, 7, 8])
+        specialized_detail = None
+        if course_type == "Specialized":
+            specialized_detail = st.text_input("Please specify your specialization")
 
-    fees = st.slider("Fees", 0, 10000, 5000)
+        language = st.multiselect("Preferred Language", ["English", "German"])
 
-    uni_type = st.radio("University Type", ["Technical University/Technische Universitat", "Technische Hochshule/University of Applied Sciences"])
+        num_semesters = st.selectbox("Number of Semesters", [2, 3, 4, 5, 6, 7, 8])
 
-    city_area = st.slider("City Area Preference", 0.0, 1.0, 0.5)
+        fees = st.slider("Fees", 0, 10000, 5000)
 
-    job_opportunities = st.slider("Job Opportunities", 0.0, 1.0, 0.5)
+        uni_type = st.radio("University Type", ["Technical University/Technische Universitat", "Technische Hochshule/University of Applied Sciences"])
 
-    additional_summary = st.text_area("Additional Summary", placeholder="Enter any additional preferences or comments here...")
+        city_area = st.slider("City Area Preference", 0.0, 1.0, 0.5)
 
-    submitted = st.form_submit_button("Submit")
+        job_opportunities = st.slider("Job Opportunities", 0.0, 1.0, 0.5)
 
-if submitted:
-    form_data = {
-        "Course Type": course_type,
-        "Specialze Subject" : specialized_detail,
-        "Language": language,
-        "Number of Semesters": num_semesters,
-        "Financials": fees,
-        "University Type": uni_type,
-        "City Area": city_area,
-        "Job Opportunities": job_opportunities,
-        "Additional Summary": additional_summary
-    }
-    process_form_data(form_data)
+        additional_summary = st.text_area("Additional Summary", placeholder="Enter any additional preferences or comments here...")
+
+        submitted = st.form_submit_button("Submit")
+
+    if submitted:
+        form_data = {
+            "Course Type": course_type,
+            "Specialze Subject" : specialized_detail,
+            "Language": language,
+            "Number of Semesters": num_semesters,
+            "Financials": fees,
+            "University Type": uni_type,
+            "City Area": city_area,
+            "Job Opportunities": job_opportunities,
+            "Additional Summary": additional_summary
+        }
+        process_form_data(form_data)
+
+
+with by_university:
+
+    selected_university = st.selectbox("Select a University", options=list(university_data.keys()), key="university_selector")
+
+    if selected_university:
+        courses = university_data[selected_university]
+        selected_course = st.selectbox("Select a Course", options=courses, key="course_selector")
+
+    if st.button("Submit Recommendation"):
+        recommendation_data = {
+            "Selected University": selected_university,
+            "Selected Course": selected_course
+        }
+        process_form_data(recommendation_data)
