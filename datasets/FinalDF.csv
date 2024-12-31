@@ -1,643 +1,643 @@
-Id,CourseNameShort,Academy,City,Jobs in City,Languages,ProgrammeDuration,TuitionFees,To,Time,Frequency,Distance (km),Jobs in neighbour cities
-8305,Computer Science,University Of Potsdam,potsdam,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0
-8305,Computer Science,University Of Potsdam,potsdam,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0
-8305,Computer Science,University Of Potsdam,potsdam,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,tübingen,49.0,3.0,30.18,56.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,heilbronn,38.0,2.0,40.56,171.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,nürtingen,27.5,2.0,20.44,61.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,reutlingen,45.0,2.0,31.94,69.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,pforzheim,40.0,2.0,37.19,20.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,esslingen am neckar,12.5,4.0,10.16,7.0
-4439,Computer Science,University Of Stuttgart,stuttgart,723.0,English,4,,geislingen an der steige,50.0,1.0,51.42,2.0
-4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,passau,44.5,1.0,40.95,7.0
-4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,cham,90.0,2.5,54.35,17.0
-4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,gütersloh,78.0,1.0,33.28,13.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,soest,25.0,1.0,47.58,13.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,bielefeld,47.0,1.0,36.85,83.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,lemgo,60.0,1.0,36.02,3.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,detmold,60.0,1.0,25.84,9.0
-5616,Master Of Science In Computer Science,Paderborn University,paderborn,92.0,English,4,0,höxter,60.0,1.0,42.03,1.0
-4455,MSc Computer Science,University Of Passau,passau,7.0,"English,German",4,0,deggendorf,46.0,1.0,40.95,25.0
-4455,MSc Computer Science,University Of Passau,passau,7.0,"English,German",4,0,pfarrkirchen,82.5,1.0,41.74,0.0
-4591,Computer Science,University Of Siegen,siegen,89.0,English,4,0,marburg,89.5,1.0,52.98,34.0
-4591,Computer Science,University Of Siegen,siegen,89.0,English,4,0,gummersbach,180.0,1.0,36.67,8.0
-4591,Computer Science,University Of Siegen,siegen,89.0,English,4,0,gießen,65.0,1.0,55.95,33.0
-4591,Computer Science,University Of Siegen,siegen,89.0,English,4,0,sankt augustin,125.0,1.0,59.95,11.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,köln,25.0,4.0,24.72,480.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,wuppertal,65.0,1.0,59.06,61.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,gummersbach,95.0,1.0,45.93,8.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,koblenz,37.5,2.0,54.96,33.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,düsseldorf,65.0,2.0,59.14,467.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,jülich,85.0,1.0,56.22,3.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,rheinbach,27.5,2.0,16.31,0.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,sankt augustin,12.5,4.0,7.59,11.0
-7606,Computer Science,University Of Bonn,bonn,143.0,English,4,0,remagen,22.5,2.0,19.52,0.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,kaiserslautern,79.5,1.0,59.01,22.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,frankfurt am main,67.5,1.0,58.63,730.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,koblenz,55.0,1.0,47.97,33.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,darmstadt,85.0,1.0,56.7,102.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,bad homburg vor der höhe,82.5,1.0,59.19,28.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,mainz,26.5,1.0,27.43,77.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,idstein,65.0,1.0,38.95,1.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,weidenbach,45.0,1.0,20.79,0.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,worms,65.0,1.0,50.41,16.0
-8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,6.0,English,3,0,wiesbaden,35.0,1.0,27.95,86.0
-9856,Computer Science,University Of Regensburg,regensburg,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0
-9856,Computer Science,University Of Regensburg,regensburg,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0
-9856,Computer Science,University Of Regensburg,regensburg,106.0,English,4,0,cham,67.0,0.5,47.02,17.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,bingen am rhein,91.0,1.0,59.01,6.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,mannheim,50.0,1.0,50.88,205.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,birkenfeld,60.0,1.0,49.35,1.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,landau in der pfalz,40.0,1.0,36.95,4.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,worms,60.0,1.0,47.7,16.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,zweibrücken,30.0,1.0,36.52,6.0
-3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,0,pirmasens,35.0,1.0,29.48,3.0
-4249,Computer And Information Science (MSc),University Of Konstanz,konstanz,29.0,English,4,,weingarten,135.0,2.5,38.79,5.0
-4249,Computer And Information Science (MSc),University Of Konstanz,konstanz,29.0,English,4,,riedlingen,170.0,2.5,59.35,0.0
-4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,4.0,English,4,0,ilmenau,65.0,1.0,43.47,9.0
-4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,4.0,English,4,0,jena,17.5,2.0,19.09,73.0
-4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,4.0,English,4,0,erfurt,14.5,4.0,20.99,60.0
-5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,13.0,English,4,0,ilmenau,53.0,1.0,32.95,9.0
-5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,13.0,English,4,0,fulda,120.0,2.5,57.83,26.0
-5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,13.0,English,4,0,erfurt,105.0,1.0,49.69,60.0
-8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,braunschweig,32.0,1.0,54.91,46.0
-8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,wolfenbüttel,52.0,1.0,59.25,3.0
-8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,hildesheim,25.0,1.0,28.65,24.0
-3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,83.0,English,4,,offenburg,35.0,2.0,53.11,41.0
-3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,83.0,English,4,,furtwangen im schwarzwald,105.0,2.5,27.4,3.0
-3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,83.0,English,4,,villingen-schwenningen,100.0,1.0,48.69,29.0
-3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,83.0,English,4,,gengenbach,45.0,2.0,46.95,0.0
-8900,Computer Science,Westsächsische Hochschule Zwickau - University Of Applied Sciences Zwickau,zwickau,31.0,German,3,0,chemnitz,31.0,2.0,32.54,88.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,erlangen,82.0,1.0,58.18,88.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,hof,65.0,1.0,48.74,15.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,bamberg,71.5,1.0,49.84,14.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,amberg,95.0,1.0,57.73,5.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,kronach,65.0,1.0,37.53,7.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,kulmbach,22.5,1.0,19.85,2.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,coburg,95.0,1.0,56.1,14.0
-5245,Computer Science (MSc),University Of Bayreuth,bayreuth,15.0,English,4,0,weiden in der oberpfalz,85.0,1.0,51.66,2.0
-7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,44.0,English,4,0,köthen,30.0,1.0,48.16,
-7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,44.0,English,4,0,dessau-roßlau,52.0,1.0,51.53,9.0
-7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,44.0,English,4,0,bernburg (saale),40.0,1.0,38.28,
-7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,44.0,English,4,0,möckern,75.0,2.5,21.48,64.0
-7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,passau,44.5,1.0,40.95,7.0
-7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,cham,90.0,2.5,54.35,17.0
-7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,darmstadt,47.5,1.0,52.94,102.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,heilbronn,65.0,1.0,48.33,171.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,mannheim,17.5,2.0,18.73,205.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,karlsruhe,55.0,1.0,49.54,261.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,dieburg,65.0,1.0,54.97,0.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,landau in der pfalz,65.0,1.0,48.42,4.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,pforzheim,95.0,1.0,57.66,20.0
-3981,Applied Computer Science (MSc),SRH Universities,heidelberg,78.0,English,4,6450,worms,45.0,1.0,34.41,16.0
-4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,kassel,20.0,3.0,38.84,63.0
-4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,höxter,105.0,2.5,49.89,1.0
-4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,witzenhausen,23.0,1.0,23.11,0.0
-3624,Computer Science (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-3624,Computer Science (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-3624,Computer Science (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0
-9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0
-9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0
-7618,Computer Science International,University Of Rostock,rostock,58.0,English,4,0,wismar,69.5,1.0,49.45,0.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,wuppertal,56.5,4.0,24.4,61.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,kamp-lintfort,84.0,1.0,46.71,1.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,dortmund,12.5,4.0,17.43,189.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,gummersbach,105.0,2.5,55.91,8.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,duisburg,30.0,2.0,32.4,102.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,düsseldorf,45.0,2.0,42.04,467.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,essen,12.5,4.0,14.41,154.0
-9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,39.0,English,4,,witten,12.5,4.0,9.45,6.0
-8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,braunschweig,32.0,1.0,54.91,46.0
-8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,wolfenbüttel,52.0,1.0,59.25,3.0
-8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,439.0,"German,English",4,0,hildesheim,25.0,1.0,28.65,24.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,wuppertal,95.0,1.0,51.23,61.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,bochum,84.0,1.0,46.71,39.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,duisburg,48.0,1.0,16.48,102.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,düsseldorf,65.0,1.0,34.62,467.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,mönchengladbach,65.0,1.0,35.05,29.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,essen,65.0,1.0,32.86,154.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,kleve,65.0,1.0,42.8,1.0
-4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,witten,95.0,1.0,55.17,6.0
-4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,82.0,English,3,0,birkenfeld,135.0,2.5,47.69,1.0
-4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,82.0,English,3,0,zweibrücken,65.0,1.0,26.83,6.0
-4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,82.0,English,3,0,pirmasens,77.5,2.5,44.78,3.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,tübingen,49.0,3.0,30.18,56.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,heilbronn,38.0,2.0,40.56,171.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,nürtingen,27.5,2.0,20.44,61.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,reutlingen,45.0,2.0,31.94,69.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,pforzheim,40.0,2.0,37.19,20.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,esslingen am neckar,12.5,4.0,10.16,7.0
-4239,Computational Linguistics,University Of Stuttgart,stuttgart,723.0,English,4,,geislingen an der steige,50.0,1.0,51.42,2.0
-8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0
-8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0
-8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0
-3827,Visual Computing (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-3827,Visual Computing (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-3827,Visual Computing (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,weimar,75.0,1.0,43.47,4.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,schmalkalden,75.0,1.0,32.95,13.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,jena,105.0,2.5,54.55,73.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,kronach,110.0,2.5,57.74,7.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,coburg,100.0,1.0,47.8,14.0
-4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,9.0,English,4,0,erfurt,45.0,1.0,33.37,60.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,paderborn,73.0,1.0,33.28,92.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,münster,63.0,1.0,52.17,236.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,soest,70.0,1.0,41.63,13.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,osnabrück,70.0,1.0,46.56,43.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,bielefeld,17.5,2.0,16.36,83.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,lemgo,70.0,1.0,38.41,3.0
-9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,13.0,English,4,0,detmold,70.0,1.0,34.62,9.0
-4686,Human Computer Interaction (HCI),University Of Siegen,siegen,89.0,English,4,0,marburg,89.5,1.0,52.98,34.0
-4686,Human Computer Interaction (HCI),University Of Siegen,siegen,89.0,English,4,0,gummersbach,180.0,1.0,36.67,8.0
-4686,Human Computer Interaction (HCI),University Of Siegen,siegen,89.0,English,4,0,gießen,65.0,1.0,55.95,33.0
-4686,Human Computer Interaction (HCI),University Of Siegen,siegen,89.0,English,4,0,sankt augustin,125.0,1.0,59.95,11.0
-4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,4.0,English,4,0,ilmenau,65.0,1.0,43.47,9.0
-4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,4.0,English,4,0,jena,17.5,2.0,19.09,73.0
-4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,4.0,English,4,0,erfurt,14.5,4.0,20.99,60.0
-3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0
-3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0
-3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0
-3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0
-5202,Computational Modelling And Simulation,Dresden University Of Technology,dresden,256.0,English,4,0,freiberg,32.5,2.0,31.42,2.0
-5202,Computational Modelling And Simulation,Dresden University Of Technology,dresden,256.0,English,4,0,tharandt,22.5,2.0,13.21,0.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,bingen am rhein,65.0,1.0,58.63,6.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,friedberg (hessen),27.5,2.0,25.51,4.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,darmstadt,25.0,2.0,25.08,102.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,bad homburg vor der höhe,25.0,2.0,13.73,28.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,dieburg,45.0,1.0,26.44,0.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,mainz,40.0,2.0,31.76,77.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,gießen,55.0,1.0,52.9,33.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,idstein,55.0,1.0,31.94,1.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,weidenbach,105.0,2.5,57.34,0.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,worms,65.0,1.0,58.17,16.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,aschaffenburg,35.0,2.0,36.21,10.0
-3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,730.0,English,4,0,wiesbaden,45.0,2.0,31.67,86.0
-9040,Data Science,Hamburg University Of Technology,hamburg,777.0,English,4,0,lüneburg,32.5,2.0,43.13,33.0
-9040,Data Science,Hamburg University Of Technology,hamburg,777.0,English,4,0,wedel (holstein),42.5,2.0,19.96,12.0
-9040,Data Science,Hamburg University Of Technology,hamburg,777.0,English,4,0,lübeck,47.5,2.0,57.26,73.0
-6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,bayreuth,62.0,1.0,48.74,15.0
-6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,kronach,65.0,1.0,43.04,7.0
-6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,kulmbach,70.0,1.0,41.59,2.0
-6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-8953,Data Science,Fulda University Of Applied Sciences,fulda,26.0,English,3,0,schmalkalden,130.0,2.5,57.83,13.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,siegen,165.0,2.5,36.67,89.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,bonn,120.0,2.5,45.93,143.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,köln,75.0,1.0,43.5,480.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,wuppertal,105.0,2.5,37.64,61.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,bochum,165.0,2.5,55.91,39.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,dortmund,165.0,2.5,54.55,189.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,düsseldorf,135.0,2.5,59.3,467.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,sankt augustin,105.0,2.5,38.46,11.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,remagen,165.0,2.5,55.19,0.0
-8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,8.0,English,3,0,witten,135.0,2.5,48.23,6.0
-7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,4,0,passau,44.5,1.0,40.95,7.0
-7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,4,0,cham,90.0,2.5,54.35,17.0
-7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,25.0,English,4,0,pfarrkirchen,120.0,2.5,39.12,0.0
-5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,41.0,English,3,,freiburg im breisgau,30.0,1.0,53.11,83.0
-5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,41.0,English,3,,furtwangen im schwarzwald,105.0,2.5,50.5,3.0
-5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,41.0,English,3,,gengenbach,7.0,2.0,9.09,0.0
-5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,41.0,English,3,,kehl,12.5,2.0,15.06,4.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,bayreuth,65.0,1.0,49.84,15.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,erlangen,35.0,2.0,34.32,88.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,nürnberg,40.0,2.0,50.59,16.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,kronach,55.0,1.0,49.96,7.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,kulmbach,50.0,1.0,46.48,2.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,coburg,45.0,1.0,41.16,14.0
-4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,14.0,English,4,0,schweinfurt,55.0,1.0,50.91,11.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,bonn,38.5,2.0,54.96,143.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,bingen am rhein,65.0,1.0,47.97,6.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,rheinbach,67.5,1.0,54.91,0.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,idstein,97.5,2.5,50.31,1.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,sankt augustin,52.5,1.0,55.01,11.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,remagen,30.0,2.0,36.13,0.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,weidenbach,45.0,1.0,30.23,0.0
-4384,Web And Data Science (MSc),University Of Koblenz,koblenz,33.0,English,4,0,wiesbaden,67.5,1.0,55.18,86.0
-7708,MSc Natural Language Processing,Trier University,trier,7.0,English,4,0,birkenfeld,180.0,2.5,39.52,1.0
-3696,Software Systems Engineering,RWTH Aachen University,aachen,177.0,English,4,0,mönchengladbach,49.0,11.0,52.68,29.0
-3696,Software Systems Engineering,RWTH Aachen University,aachen,177.0,English,4,0,jülich,48.0,1.0,25.38,3.0
-7658,Data Science,University Of Münster,münster,236.0,English,4,Null,gütersloh,55.0,1.0,52.17,13.0
-7658,Data Science,University Of Münster,münster,236.0,English,4,Null,dortmund,45.0,2.0,51.09,189.0
-7658,Data Science,University Of Münster,münster,236.0,English,4,Null,soest,65.0,1.0,54.63,13.0
-7658,Data Science,University Of Münster,münster,236.0,English,4,Null,osnabrück,35.0,2.0,44.98,43.0
-7658,Data Science,University Of Münster,münster,236.0,English,4,Null,steinfurt,25.0,1.0,26.38,28.0
-6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,3,4750,potsdam,28.0,6.0,26.14,62.0
-6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,3,4750,wildau,35.0,2.0,26.5,1.0
-6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,3,4750,eberswalde,35.0,2.0,45.12,0.0
-6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,3,4750,bergholz-rehbrücke,35.0,2.0,27.29,0.0
-7636,Data Science,RWTH Aachen University,aachen,177.0,English,4,0,mönchengladbach,49.0,11.0,52.68,29.0
-7636,Data Science,RWTH Aachen University,aachen,177.0,English,4,0,jülich,48.0,1.0,25.38,3.0
-7660,Data Science,Technische Universität Braunschweig,braunschweig,46.0,English,4,0,hannover,38.0,2.0,54.91,439.0
-7660,Data Science,Technische Universität Braunschweig,braunschweig,46.0,English,4,0,wolfenbüttel,12.5,2.0,11.39,3.0
-7660,Data Science,Technische Universität Braunschweig,braunschweig,46.0,English,4,0,hildesheim,35.0,2.0,41.02,24.0
-7660,Data Science,Technische Universität Braunschweig,braunschweig,46.0,English,4,0,wernigerode,65.0,1.0,51.15,3.0
-7660,Data Science,Technische Universität Braunschweig,braunschweig,46.0,English,4,0,wolfsburg,25.0,2.0,24.92,42.0
-3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,171.0,English,3,,stuttgart,41.5,2.0,40.56,723.0
-3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,171.0,English,3,,heidelberg,65.0,1.0,48.33,78.0
-3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,171.0,English,3,,nürtingen,67.5,1.0,58.0,61.0
-3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,171.0,English,3,,pforzheim,82.5,1.0,46.95,20.0
-3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,171.0,English,3,,esslingen am neckar,55.0,1.0,44.9,7.0
-4556,Management & Data Science (MSc),Leuphana University Lüneburg,lüneburg,33.0,English,4,0,hamburg,35.0,2.0,43.13,777.0
-4556,Management & Data Science (MSc),Leuphana University Lüneburg,lüneburg,33.0,English,4,0,wedel (holstein),95.0,2.5,59.66,12.0
-9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,1062.0,English,3,6800,potsdam,28.0,6.0,26.14,62.0
-9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,1062.0,English,3,6800,wildau,35.0,2.0,26.5,1.0
-9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,1062.0,English,3,6800,eberswalde,35.0,2.0,45.12,0.0
-9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,1062.0,English,3,6800,bergholz-rehbrücke,35.0,2.0,27.29,0.0
-9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,226.0,English,3,5450,köthen (anhalt),45.0,1.0,53.47,
-9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,226.0,English,3,5450,halle (saale),32.5,2.0,32.25,54.0
-9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,226.0,English,3,5450,dessau-roßlau,55.0,1.0,57.16,9.0
-3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-8429,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0
-8429,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0
-8429,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0
-4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,777.0,English,4,0,lüneburg,32.5,2.0,43.13,33.0
-4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,777.0,English,4,0,wedel (holstein),42.5,2.0,19.96,12.0
-4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,777.0,English,4,0,lübeck,47.5,2.0,57.26,73.0
-5253,Data Science,University Of Potsdam,potsdam,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0
-5253,Data Science,University Of Potsdam,potsdam,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0
-5253,Data Science,University Of Potsdam,potsdam,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0
-9858,Data Science,University Of Regensburg,regensburg,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0
-9858,Data Science,University Of Regensburg,regensburg,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0
-9858,Data Science,University Of Regensburg,regensburg,106.0,English,4,0,cham,67.0,0.5,47.02,17.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,bonn,65.0,2.0,59.14,143.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,köln,35.0,4.0,34.43,480.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,wuppertal,25.0,4.0,28.38,61.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,bochum,45.0,2.0,42.04,39.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,kamp-lintfort,65.0,1.0,34.62,1.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,dortmund,52.5,4.0,57.74,189.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,gummersbach,95.0,1.0,59.3,8.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,duisburg,17.5,4.0,23.35,102.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,mönchengladbach,25.0,2.0,24.07,29.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,essen,35.0,2.0,30.81,154.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,jülich,65.0,1.0,44.56,3.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,sankt augustin,75.0,1.0,57.87,11.0
-6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,467.0,English,4,0,witten,55.0,2.0,45.51,6.0
-4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,109.0,English,4,0,garching b. münchen,65.0,1.0,57.37,28.0
-4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,109.0,English,4,0,münchen,45.0,2.0,56.53,1606.0
-4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,109.0,English,4,0,ingolstadt,65.0,1.0,58.59,87.0
-4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,109.0,English,4,0,neuburg an der donau,55.0,1.0,45.91,1.0
-3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,236.0,English,4,0,gütersloh,55.0,1.0,52.17,13.0
-3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,236.0,English,4,0,dortmund,45.0,2.0,51.09,189.0
-3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,236.0,English,4,0,soest,65.0,1.0,54.63,13.0
-3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,236.0,English,4,0,osnabrück,35.0,2.0,44.98,43.0
-3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,236.0,English,4,0,steinfurt,25.0,1.0,26.38,28.0
-7641,Applied Data Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,kassel,20.0,3.0,38.84,63.0
-7641,Applied Data Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,höxter,105.0,2.5,49.89,1.0
-7641,Applied Data Science (MSc),University Of Göttingen,göttingen,36.0,English,4,0,witzenhausen,23.0,1.0,23.11,0.0
-9046,Data Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0
-9046,Data Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0
-9046,Data Science (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,aalen,65.0,1.0,49.4,11.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,neu-ulm,3.5,4.0,0.77,25.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,nürtingen,55.0,1.0,54.62,61.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,reutlingen,65.0,1.0,58.62,69.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,riedlingen,55.0,1.0,47.03,0.0
-4581,Master Of Science In Cognitive Systems,Ulm University,ulm,129.0,English,4,,geislingen an der steige,35.0,1.0,27.31,2.0
-5252,Digital Health,University Of Potsdam,potsdam,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0
-5252,Digital Health,University Of Potsdam,potsdam,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0
-5252,Digital Health,University Of Potsdam,potsdam,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0
-4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,4,4400,potsdam,28.0,6.0,26.14,62.0
-4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,4,4400,wildau,35.0,2.0,26.5,1.0
-4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,4,4400,eberswalde,35.0,2.0,45.12,0.0
-4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,1062.0,English,4,4400,bergholz-rehbrücke,35.0,2.0,27.29,0.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,darmstadt,47.5,1.0,52.94,102.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,heilbronn,65.0,1.0,48.33,171.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,mannheim,17.5,2.0,18.73,205.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,karlsruhe,55.0,1.0,49.54,261.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,dieburg,65.0,1.0,54.97,0.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,landau in der pfalz,65.0,1.0,48.42,4.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,pforzheim,95.0,1.0,57.66,20.0
-4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,78.0,English,4,6450,worms,45.0,1.0,34.41,16.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,bonn,25.0,4.0,24.72,143.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,wuppertal,35.0,2.0,39.32,61.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,gummersbach,65.0,1.0,43.5,8.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,duisburg,45.0,2.0,57.0,102.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,düsseldorf,25.0,4.0,34.43,467.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,mönchengladbach,45.0,2.0,46.54,29.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,essen,55.0,2.0,57.97,154.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,jülich,65.0,1.0,42.14,3.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,rheinbach,55.0,1.0,34.79,0.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,sankt augustin,25.0,2.0,24.3,11.0
-5453,Information Systems – MSc,University Of Cologne,köln,480.0,"German,English",4,0,remagen,45.0,1.0,44.22,0.0
-4874,MSc Data Analytics And Decision Science (DDS),RWTH Aachen University,aachen,177.0,English,4,7500,mönchengladbach,49.0,11.0,52.68,29.0
-4874,MSc Data Analytics And Decision Science (DDS),RWTH Aachen University,aachen,177.0,English,4,7500,jülich,48.0,1.0,25.38,3.0
-4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,köthen,30.0,1.0,48.16,
-4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,dessau-roßlau,52.0,1.0,51.53,9.0
-4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,bernburg (saale),40.0,1.0,38.28,
-4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,möckern,75.0,2.5,21.48,64.0
-3614,Cognitive Science (MSc),Osnabrück University,osnabrück,43.0,English,4,0,gütersloh,75.0,1.0,46.56,13.0
-3614,Cognitive Science (MSc),Osnabrück University,osnabrück,43.0,English,4,0,münster,35.0,2.0,44.98,236.0
-3614,Cognitive Science (MSc),Osnabrück University,osnabrück,43.0,English,4,0,bielefeld,65.0,1.0,43.43,83.0
-3614,Cognitive Science (MSc),Osnabrück University,osnabrück,43.0,English,4,0,steinfurt,55.0,1.0,48.78,28.0
-4653,MSc In Data Engineering,Constructor University,bremen,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0
-4653,MSc In Data Engineering,Constructor University,bremen,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0
-4653,MSc In Data Engineering,Constructor University,bremen,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0
-7784,MSc AI Engineering,University Of Passau,passau,7.0,English,4,0,deggendorf,46.0,1.0,40.95,25.0
-7784,MSc AI Engineering,University Of Passau,passau,7.0,English,4,0,pfarrkirchen,82.5,1.0,41.74,0.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,bingen am rhein,59.0,1.0,56.7,6.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,heidelberg,34.0,2.0,52.94,78.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,friedberg (hessen),65.0,1.0,50.39,4.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,frankfurt am main,25.0,2.0,25.08,730.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,mannheim,35.0,2.0,46.48,205.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,bad homburg vor der höhe,65.0,1.0,38.21,28.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,dieburg,12.5,2.0,11.78,0.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,mainz,45.0,1.0,31.4,77.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,idstein,95.0,2.5,47.28,1.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,worms,55.0,1.0,36.16,16.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,aschaffenburg,45.0,1.0,34.71,10.0
-4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,102.0,English,4,0,wiesbaden,55.0,1.0,37.94,86.0
-9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,11.0,English,3,1500,ulm,64.5,1.0,49.4,129.0
-9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,11.0,English,3,1500,neu-ulm,85.0,1.0,49.65,25.0
-9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,11.0,English,3,1500,esslingen am neckar,75.0,1.0,58.69,7.0
-9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,11.0,English,3,1500,feuchtwangen,70.0,1.0,40.66,1.0
-9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,11.0,English,3,1500,geislingen an der steige,60.0,1.0,30.49,2.0
-3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,15.0,English,4,3300,bayreuth,62.0,1.0,48.74,15.0
-3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,15.0,English,4,3300,kronach,65.0,1.0,43.04,7.0
-3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,15.0,English,4,3300,kulmbach,70.0,1.0,41.59,2.0
-8382,Internet Of Things (IoT) And Smart Systems,Westsächsische Hochschule Zwickau - University Of Applied Sciences Zwickau,zwickau,31.0,English,4,0,chemnitz,31.0,2.0,32.54,88.0
-9198,MSc In Applied Health Informatics & Digital Medicine,RWTH Aachen University,aachen,177.0,English,4,6650,mönchengladbach,49.0,11.0,52.68,29.0
-9198,MSc In Applied Health Informatics & Digital Medicine,RWTH Aachen University,aachen,177.0,English,4,6650,jülich,48.0,1.0,25.38,3.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,darmstadt,47.5,1.0,52.94,102.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,heilbronn,65.0,1.0,48.33,171.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,mannheim,17.5,2.0,18.73,205.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,karlsruhe,55.0,1.0,49.54,261.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,dieburg,65.0,1.0,54.97,0.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,landau in der pfalz,65.0,1.0,48.42,4.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,pforzheim,95.0,1.0,57.66,20.0
-4343,Information Technology (MEng),SRH Universities,heidelberg,78.0,English,3,6450,worms,45.0,1.0,34.41,16.0
-7054,Business Intelligence And Data Analytics,University Of Applied Sciences Emden/Leer,emden,6.0,English,3,5980,leer (ostfriesland),18.0,1.0,22.4,3.0
-8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,5.0,English,3,0,regensburg,51.0,1.0,51.68,106.0
-8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,5.0,English,3,0,bayreuth,73.0,1.0,57.73,15.0
-8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,5.0,English,3,0,nürnberg,54.5,1.0,55.84,16.0
-8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,5.0,English,3,0,weiden,35.0,1.0,33.55,
-8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,bayreuth,62.0,1.0,48.74,15.0
-8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,kronach,65.0,1.0,43.04,7.0
-8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,15.0,English,3,0,kulmbach,70.0,1.0,41.59,2.0
-3686,Global Software Development (MSc),Fulda University Of Applied Sciences,fulda,26.0,English,3,0,schmalkalden,130.0,2.5,57.83,13.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,aalen,65.0,1.0,49.4,11.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,neu-ulm,3.5,4.0,0.77,25.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,nürtingen,55.0,1.0,54.62,61.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,reutlingen,65.0,1.0,58.62,69.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,riedlingen,55.0,1.0,47.03,0.0
-4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,129.0,English,3,,geislingen an der steige,35.0,1.0,27.31,2.0
-9770,MSc In Advanced Software Technology,Constructor University,bremen,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0
-9770,MSc In Advanced Software Technology,Constructor University,bremen,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0
-9770,MSc In Advanced Software Technology,Constructor University,bremen,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,bingen am rhein,65.0,1.0,58.63,6.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,friedberg (hessen),27.5,2.0,25.51,4.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,darmstadt,25.0,2.0,25.08,102.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,bad homburg vor der höhe,25.0,2.0,13.73,28.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,dieburg,45.0,1.0,26.44,0.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,mainz,40.0,2.0,31.76,77.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,gießen,55.0,1.0,52.9,33.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,idstein,55.0,1.0,31.94,1.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,weidenbach,105.0,2.5,57.34,0.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,worms,65.0,1.0,58.17,16.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,aschaffenburg,35.0,2.0,36.21,10.0
-9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,730.0,English,4,,wiesbaden,45.0,2.0,31.67,86.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,wuppertal,35.0,2.0,34.27,61.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,bochum,12.5,4.0,17.43,39.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,gummersbach,105.0,2.5,54.55,8.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,duisburg,45.0,2.0,49.82,102.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,münster,55.0,2.0,51.09,236.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,soest,45.0,1.0,44.93,13.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,düsseldorf,55.0,2.0,57.74,467.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,essen,25.0,2.0,31.84,154.0
-4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,witten,12.5,2.0,12.47,6.0
-9776,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,2500,bremerhaven,40.0,1.0,54.86,13.0
-9776,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,2500,oldenburg,29.5,3.0,40.3,39.0
-9776,MSc In Data Science For Society And Business,Constructor University,bremen,268.0,English,4,2500,elsfleth,22.5,1.0,29.41,0.0
-4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,261.0,English,4,9000,heidelberg,18.0,4.0,49.54,78.0
-4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,261.0,English,4,9000,mannheim,35.0,2.0,53.85,205.0
-4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,261.0,English,4,9000,landau in der pfalz,35.0,2.0,30.08,4.0
-4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,261.0,English,4,9000,pforzheim,25.0,2.0,25.45,20.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,regensburg,65.0,1.0,56.97,106.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,garching b. münchen,65.0,1.0,59.29,28.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,augsburg,65.0,1.0,58.59,109.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,freising,35.0,2.0,46.65,20.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,eichstätt,30.0,1.0,22.88,6.0
-9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,3,500,neuburg an der donau,20.0,2.0,18.28,1.0
-4775,Master'S In Industrial Informatics,University Of Applied Sciences Emden/Leer,emden,6.0,English,3,0,leer (ostfriesland),18.0,1.0,22.4,3.0
-8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,3.0,"German,English",4,0,braunschweig,9.0,2.0,59.25,46.0
-8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,3.0,"German,English",4,0,hannover,65.0,1.0,11.39,439.0
-8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,3.0,"German,English",4,0,hildesheim,65.0,1.0,39.91,24.0
-8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,3.0,"German,English",4,0,wernigerode,65.0,1.0,40.39,3.0
-8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,3.0,"German,English",4,0,wolfsburg,65.0,1.0,33.44,42.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,tübingen,49.0,3.0,30.18,56.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,heilbronn,38.0,2.0,40.56,171.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,nürtingen,27.5,2.0,20.44,61.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,reutlingen,45.0,2.0,31.94,69.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,pforzheim,40.0,2.0,37.19,20.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,esslingen am neckar,12.5,4.0,10.16,7.0
-9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,723.0,English,3,,geislingen an der steige,50.0,1.0,51.42,2.0
-8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0
-8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0
-8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0
-8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0
-9228,Information Systems,FH Aachen University Of Applied Sciences,aachen,177.0,"English,German",4,0,mönchengladbach,49.0,11.0,52.68,29.0
-9228,Information Systems,FH Aachen University Of Applied Sciences,aachen,177.0,"English,German",4,0,jülich,48.0,1.0,25.38,3.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,wuppertal,35.0,2.0,34.27,61.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,bochum,12.5,4.0,17.43,39.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,gummersbach,105.0,2.5,54.55,8.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,duisburg,45.0,2.0,49.82,102.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,münster,55.0,2.0,51.09,236.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,soest,45.0,1.0,44.93,13.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,düsseldorf,55.0,2.0,57.74,467.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,essen,25.0,2.0,31.84,154.0
-4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,189.0,English,4,0,witten,12.5,2.0,12.47,6.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,wuppertal,95.0,1.0,51.23,61.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,bochum,84.0,1.0,46.71,39.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,duisburg,48.0,1.0,16.48,102.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,düsseldorf,65.0,1.0,34.62,467.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,mönchengladbach,65.0,1.0,35.05,29.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,essen,65.0,1.0,32.86,154.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,kleve,65.0,1.0,42.8,1.0
-4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,1.0,English,3,0,witten,95.0,1.0,55.17,6.0
-4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,köthen,30.0,1.0,48.16,
-4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,dessau-roßlau,52.0,1.0,51.53,9.0
-4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,bernburg (saale),40.0,1.0,38.28,
-4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,44.0,"English,German",4,0,möckern,75.0,2.5,21.48,64.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,bonn,25.0,4.0,24.72,143.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,wuppertal,35.0,2.0,39.32,61.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,gummersbach,65.0,1.0,43.5,8.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,duisburg,45.0,2.0,57.0,102.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,düsseldorf,25.0,4.0,34.43,467.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,mönchengladbach,45.0,2.0,46.54,29.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,essen,55.0,2.0,57.97,154.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,jülich,65.0,1.0,42.14,3.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,rheinbach,55.0,1.0,34.79,0.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,sankt augustin,25.0,2.0,24.3,11.0
-4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,480.0,English,4,Null,remagen,45.0,1.0,44.22,0.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,regensburg,65.0,1.0,56.97,106.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,garching b. münchen,65.0,1.0,59.29,28.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,augsburg,65.0,1.0,58.59,109.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,freising,35.0,2.0,46.65,20.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,eichstätt,30.0,1.0,22.88,6.0
-6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,87.0,English,4,500,neuburg an der donau,20.0,2.0,18.28,1.0
-9773,MSc In Data Engineering Technologies,Constructor University,bremen,268.0,English,4,2500,bremerhaven,40.0,1.0,54.86,13.0
-9773,MSc In Data Engineering Technologies,Constructor University,bremen,268.0,English,4,2500,oldenburg,29.5,3.0,40.3,39.0
-9773,MSc In Data Engineering Technologies,Constructor University,bremen,268.0,English,4,2500,elsfleth,22.5,1.0,29.41,0.0
-7852,MSc Artificial Intelligence,Technical University Of Applied Sciences Würzburg-Schweinfurt (THWS),würzburg,62.0,English,3,0,schweinfurt,24.0,2.0,36.44,11.0
-3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,3.0,English,6,0,paderborn,95.0,1.0,36.02,92.0
-3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,3.0,English,6,0,gütersloh,65.0,1.0,38.41,13.0
-3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,3.0,English,6,0,bielefeld,65.0,1.0,25.44,83.0
-3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,3.0,English,6,0,detmold,25.0,2.0,10.33,9.0
-3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,3.0,English,6,0,höxter,95.0,1.0,40.34,1.0
-7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0
-7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0
-7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0
-7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0
-4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,zwickau,36.0,2.0,32.54,31.0
-4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,freiberg,35.0,2.0,31.29,2.0
-4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,tharandt,55.0,2.0,49.48,0.0
-9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,passau,44.5,1.0,40.95,7.0
-9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,cham,90.0,2.5,54.35,17.0
-9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0
-9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0
-9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0
-9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0
-9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0
-9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,1062.0,English,4,1294,potsdam,28.0,6.0,26.14,62.0
-9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,1062.0,English,4,1294,wildau,35.0,2.0,26.5,1.0
-9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,1062.0,English,4,1294,eberswalde,35.0,2.0,45.12,0.0
-9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,1062.0,English,4,1294,bergholz-rehbrücke,35.0,2.0,27.29,0.0
-7711,Cybersecurity (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-7711,Cybersecurity (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-7711,Cybersecurity (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0
-5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0
-5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0
-5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,bonn,38.5,2.0,54.96,143.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,bingen am rhein,65.0,1.0,47.97,6.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,rheinbach,67.5,1.0,54.91,0.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,idstein,97.5,2.5,50.31,1.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,sankt augustin,52.5,1.0,55.01,11.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,remagen,30.0,2.0,36.13,0.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,weidenbach,45.0,1.0,30.23,0.0
-6924,E-Government (MSc),University Of Koblenz,koblenz,33.0,English,4,0,wiesbaden,67.5,1.0,55.18,86.0
-9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0
-9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0
-9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,106.0,English,4,0,cham,67.0,0.5,47.02,17.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,paderborn,47.5,1.0,36.85,92.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,gütersloh,17.5,2.0,16.36,13.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,soest,65.0,1.0,57.69,13.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,osnabrück,55.0,1.0,43.43,43.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,lemgo,37.5,1.0,25.44,3.0
-9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,83.0,English,4,0,detmold,32.5,1.0,25.64,9.0
-3803,Distributed Systems Engineering (DSE),Dresden University Of Technology,dresden,256.0,English,4,0,freiberg,32.5,2.0,31.42,2.0
-3803,Distributed Systems Engineering (DSE),Dresden University Of Technology,dresden,256.0,English,4,0,tharandt,22.5,2.0,13.21,0.0
-9072,IT Security (MA),Universität Zu Lübeck,lübeck,73.0,English,4,0,hamburg,52.5,2.0,57.26,777.0
-9072,IT Security (MA),Universität Zu Lübeck,lübeck,73.0,English,4,0,wismar,85.0,1.0,51.37,0.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,köln,25.0,4.0,24.72,480.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,wuppertal,65.0,1.0,59.06,61.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,gummersbach,95.0,1.0,45.93,8.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,koblenz,37.5,2.0,54.96,33.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,düsseldorf,65.0,2.0,59.14,467.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,jülich,85.0,1.0,56.22,3.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,rheinbach,27.5,2.0,16.31,0.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,sankt augustin,12.5,4.0,7.59,11.0
-3728,Media Informatics,RWTH Aachen University,bonn,143.0,English,4,0,remagen,22.5,2.0,19.52,0.0
-4655,Web Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,zwickau,36.0,2.0,32.54,31.0
-4655,Web Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,freiberg,35.0,2.0,31.29,2.0
-4655,Web Engineering,Chemnitz University Of Technology,chemnitz,88.0,English,4,0,tharandt,55.0,2.0,49.48,0.0
-9003,Artificial Intelligence,Universität Zu Lübeck,lübeck,73.0,English,6,0,hamburg,52.5,2.0,57.26,777.0
-9003,Artificial Intelligence,Universität Zu Lübeck,lübeck,73.0,English,6,0,wismar,85.0,1.0,51.37,0.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,konstanz,165.0,1.0,59.35,29.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,tübingen,125.0,1.0,51.38,56.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,ulm,55.0,1.0,47.03,129.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,neu-ulm,55.0,1.0,47.39,25.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,weingarten,95.0,1.0,40.46,5.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,nürtingen,125.0,1.0,53.6,61.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,reutlingen,125.0,1.0,42.41,69.0
-9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,0.0,English,3,Null,geislingen an der steige,125.0,1.0,58.59,2.0
-3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,3.0,English,3,Null,freiburg im breisgau,105.0,1.0,27.4,83.0
-3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,3.0,English,3,Null,offenburg,135.0,1.0,50.5,41.0
-3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,3.0,English,3,Null,villingen-schwenningen,75.0,1.0,21.44,29.0
-3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,3.0,English,3,Null,gengenbach,135.0,1.0,41.69,0.0
-8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,bremen,28.5,2.0,40.3,268.0
-8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,bremerhaven,85.0,1.0,52.03,13.0
-8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,leer (ostfriesland),45.0,1.0,51.73,3.0
-8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,elsfleth,22.5,1.0,19.46,0.0
-3923,Embedded Systems (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-3923,Embedded Systems (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-3923,Embedded Systems (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,bremen,28.5,2.0,40.3,268.0
-7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,bremerhaven,85.0,1.0,52.03,13.0
-7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,leer (ostfriesland),45.0,1.0,51.73,3.0
-7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,39.0,English,4,0,elsfleth,22.5,1.0,19.46,0.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,bingen am rhein,91.0,1.0,59.01,6.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,mannheim,50.0,1.0,50.88,205.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,birkenfeld,60.0,1.0,49.35,1.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,landau in der pfalz,40.0,1.0,36.95,4.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,worms,60.0,1.0,47.7,16.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,zweibrücken,30.0,1.0,36.52,6.0
-3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,22.0,English,4,2450,pirmasens,35.0,1.0,29.48,3.0
-4634,Media Informatics (MSc),Saarland University,saarbrücken,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0
-4634,Media Informatics (MSc),Saarland University,saarbrücken,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0
-4634,Media Informatics (MSc),Saarland University,saarbrücken,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,siegen,95.0,1.0,59.95,89.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,bonn,17.5,2.0,7.59,143.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,köln (cologne),35.0,2.0,24.3,
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,wuppertal,65.0,1.0,54.38,61.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,gummersbach,65.0,1.0,38.46,8.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,koblenz,85.0,1.0,55.01,33.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,düsseldorf,65.0,1.0,57.87,467.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,rheinbach,55.0,1.0,23.78,0.0
-3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,11.0,English,4,0,remagen,55.0,1.0,21.99,0.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,wuppertal,56.5,4.0,24.4,61.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,kamp-lintfort,84.0,1.0,46.71,1.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,dortmund,12.5,4.0,17.43,189.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,gummersbach,105.0,2.5,55.91,8.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,duisburg,30.0,2.0,32.4,102.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,düsseldorf,45.0,2.0,42.04,467.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,essen,12.5,4.0,14.41,154.0
-7795,Applied IT Security,Ruhr-Universität Bochum,bochum,39.0,English,6,,witten,12.5,4.0,9.45,6.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,stuttgart,50.5,3.0,30.18,723.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,nürtingen,35.0,2.0,23.99,61.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,reutlingen,12.5,4.0,12.08,69.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,riedlingen,105.0,1.0,51.38,0.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,pforzheim,105.0,1.0,48.62,20.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,esslingen am neckar,55.0,2.0,31.0,7.0
-6119,Bioinformatics (MSc),University Of Tübingen,tübingen,56.0,English,4,1500,geislingen an der steige,90.0,1.0,58.92,2.0
-9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0
-9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0
-9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,stuttgart,50.5,3.0,30.18,723.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,nürtingen,35.0,2.0,23.99,61.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,reutlingen,12.5,4.0,12.08,69.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,riedlingen,105.0,1.0,51.38,0.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,pforzheim,105.0,1.0,48.62,20.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,esslingen am neckar,55.0,2.0,31.0,7.0
-5634,Machine Learning,University Of Tübingen,tübingen,56.0,English,4,,geislingen an der steige,90.0,1.0,58.92,2.0
-3862,Geospatial Technologies (MSc),University Of Münster,münster,236.0,English,3,1700,gütersloh,55.0,1.0,52.17,13.0
-3862,Geospatial Technologies (MSc),University Of Münster,münster,236.0,English,3,1700,dortmund,45.0,2.0,51.09,189.0
-3862,Geospatial Technologies (MSc),University Of Münster,münster,236.0,English,3,1700,soest,65.0,1.0,54.63,13.0
-3862,Geospatial Technologies (MSc),University Of Münster,münster,236.0,English,3,1700,osnabrück,35.0,2.0,44.98,43.0
-3862,Geospatial Technologies (MSc),University Of Münster,münster,236.0,English,3,1700,steinfurt,25.0,1.0,26.38,28.0
-9838,"Intelligent Robotics, MEng",Deggendorf Institute Of Technology,cham,17.0,English,3,0,deggendorf,125.0,1.0,54.35,25.0
-9838,"Intelligent Robotics, MEng",Deggendorf Institute Of Technology,cham,17.0,English,3,0,regensburg,65.0,1.0,47.02,106.0
-4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,0.0,English,3,0,deggendorf,185.0,1.0,39.12,25.0
-4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,0.0,English,3,0,passau,87.5,1.0,41.74,7.0
-4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,0.0,English,3,0,burghausen¹,65.0,1.0,31.37,
-6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0
-6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0
-6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0
-4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0
-4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0
-4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0
-4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0
-9595,Information Engineering,Technical University Of Munich,heilbronn,171.0,English,4,0,stuttgart,41.5,2.0,40.56,723.0
-9595,Information Engineering,Technical University Of Munich,heilbronn,171.0,English,4,0,heidelberg,65.0,1.0,48.33,78.0
-9595,Information Engineering,Technical University Of Munich,heilbronn,171.0,English,4,0,nürtingen,67.5,1.0,58.0,61.0
-9595,Information Engineering,Technical University Of Munich,heilbronn,171.0,English,4,0,pforzheim,82.5,1.0,46.95,20.0
-9595,Information Engineering,Technical University Of Munich,heilbronn,171.0,English,4,0,esslingen am neckar,55.0,1.0,44.9,7.0
-3724,Forest Information Technology (FIT),Eberswalde University For Sustainable Development,eberswalde,0.0,English,4,0,berlin,34.0,1.0,45.12,1062.0
-3724,Forest Information Technology (FIT),Eberswalde University For Sustainable Development,eberswalde,0.0,English,4,0,wildau¹,95.0,1.0,58.24,
-6981,Satellite Technology (SaTec),Julius-Maximilians-Universität Würzburg,würzburg,62.0,English,4,0,schweinfurt,24.0,2.0,36.44,11.0
+Id,CourseNameShort,Academy,City,City_Population,City_Type,Jobs in City,Languages,ProgrammeDuration,TuitionFees,To,Time,Frequency,Distance (km),Jobs in neighbour cities,NeighbourCity_Population,NeighbourCity_Type
+8305,Computer Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0,"37,55,251",Metropolitan City
+8305,Computer Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0,"10,000",Small Town
+8305,Computer Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0,"8,000",Small Town
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,tübingen,49.0,3.0,30.18,56.0,"91,077",City
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,heilbronn,38.0,2.0,40.56,171.0,"126,000",City
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,nürtingen,27.5,2.0,20.44,61.0,"40,000",Medium Town
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,reutlingen,45.0,2.0,31.94,69.0,"1,15,000",City
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,pforzheim,40.0,2.0,37.19,20.0,"1,25,000",City
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,esslingen am neckar,12.5,4.0,10.16,7.0,"95,000",City
+4439,Computer Science,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,geislingen an der steige,50.0,1.0,51.42,2.0,"27,000",Medium Town
+4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,passau,44.5,1.0,40.95,7.0,"52,000",Small Town
+4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,cham,90.0,2.5,54.35,17.0,"17,000",Small Town
+4870,MSc Applied Computer Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0,"12,000",Small Town
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,gütersloh,78.0,1.0,33.28,13.0,"1,02,393",Large Town
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,soest,25.0,1.0,47.58,13.0,"47,000",Medium Town
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,bielefeld,47.0,1.0,36.85,83.0,"3,38,332",City
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,lemgo,60.0,1.0,36.02,3.0,"41,000",Medium Town
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,detmold,60.0,1.0,25.84,9.0,"74,000",Medium Town
+5616,Master Of Science In Computer Science,Paderborn University,paderborn,"1,54,755",Large Town,92.0,English,4,0,höxter,60.0,1.0,42.03,1.0,"30,000",Medium Town
+4455,MSc Computer Science,University Of Passau,passau,"52,000",Small Town,7.0,"English,German",4,0,deggendorf,46.0,1.0,40.95,25.0,"36,000",Small Town
+4455,MSc Computer Science,University Of Passau,passau,"52,000",Small Town,7.0,"English,German",4,0,pfarrkirchen,82.5,1.0,41.74,0.0,"12,000",Small Town
+4591,Computer Science,University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,marburg,89.5,1.0,52.98,34.0,"76,000",Medium Town
+4591,Computer Science,University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,gummersbach,180.0,1.0,36.67,8.0,"50,000",Medium Town
+4591,Computer Science,University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,gießen,65.0,1.0,55.95,33.0,"88,000",City
+4591,Computer Science,University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,sankt augustin,125.0,1.0,59.95,11.0,"56,000",Medium Town
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,köln,25.0,4.0,24.72,480.0,"10,84,831",Metropolitan City
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,wuppertal,65.0,1.0,59.06,61.0,"3,55,000",City
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,gummersbach,95.0,1.0,45.93,8.0,"50,000",Medium Town
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,koblenz,37.5,2.0,54.96,33.0,"1,15,268",City
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,düsseldorf,65.0,2.0,59.14,467.0,"6,29,047",Metropolitan City
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,jülich,85.0,1.0,56.22,3.0,"33,000",Medium Town
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,rheinbach,27.5,2.0,16.31,0.0,"27,000",Medium Town
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,sankt augustin,12.5,4.0,7.59,11.0,"56,000",Medium Town
+7606,Computer Science,University Of Bonn,bonn,"3,36,465",City,143.0,English,4,0,remagen,22.5,2.0,19.52,0.0,"17,000",Small Town
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,kaiserslautern,79.5,1.0,59.01,22.0,"1,01,228",City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,frankfurt am main,67.5,1.0,58.63,730.0,"7,73,068",Metropolitan City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,koblenz,55.0,1.0,47.97,33.0,"1,15,268",City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,darmstadt,85.0,1.0,56.7,102.0,"1,62,243",City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,bad homburg vor der höhe,82.5,1.0,59.19,28.0,"54,000",Medium Town
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,mainz,26.5,1.0,27.43,77.0,"2,17,000",City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,idstein,65.0,1.0,38.95,1.0,"25,000",Medium Town
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,weidenbach,45.0,1.0,20.79,0.0,"1,000",Small Town
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,worms,65.0,1.0,50.41,16.0,"82,000",City
+8324,Master Of Science In Computer Science,Bingen Technical University Of Applied Sciences,bingen am rhein,"25,000",Small Town,6.0,English,3,0,wiesbaden,35.0,1.0,27.95,86.0,"2,78,000",City
+9856,Computer Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0,"42,000",Medium Town
+9856,Computer Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0,"1,41,029",Large Town
+9856,Computer Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,cham,67.0,0.5,47.02,17.0,"17,000",Small Town
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,bingen am rhein,91.0,1.0,59.01,6.0,"25,000",Small Town
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,mannheim,50.0,1.0,50.88,205.0,"3,10,000",City
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,birkenfeld,60.0,1.0,49.35,1.0,"7,000",Small Town
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,landau in der pfalz,40.0,1.0,36.95,4.0,"46,000",Medium Town
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,worms,60.0,1.0,47.7,16.0,"82,000",City
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,zweibrücken,30.0,1.0,36.52,6.0,"34,000",Medium Town
+3629,Computer Science (Master Of Science),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,0,pirmasens,35.0,1.0,29.48,3.0,"40,000",Medium Town
+4249,Computer And Information Science (MSc),University Of Konstanz,konstanz,"84,693",City,29.0,English,4,,weingarten,135.0,2.5,38.79,5.0,"24,000",Medium Town
+4249,Computer And Information Science (MSc),University Of Konstanz,konstanz,"84,693",City,29.0,English,4,,riedlingen,170.0,2.5,59.35,0.0,"10,000",Small Town
+4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,ilmenau,65.0,1.0,43.47,9.0,"33,000",Medium Town
+4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,jena,17.5,2.0,19.09,73.0,"1,10,000",City
+4238,Computer Science For Digital Media,Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,erfurt,14.5,4.0,20.99,60.0,"2,13,000",City
+5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,"19,000",Small Town,13.0,English,4,0,ilmenau,53.0,1.0,32.95,9.0,"33,000",Medium Town
+5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,"19,000",Small Town,13.0,English,4,0,fulda,120.0,2.5,57.83,26.0,"68,000",Medium Town
+5551,Applied Computer Science (MSc),Schmalkalden University Of Applied Sciences,schmalkalden,"19,000",Small Town,13.0,English,4,0,erfurt,105.0,1.0,49.69,60.0,"2,13,000",City
+8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,braunschweig,32.0,1.0,54.91,46.0,"250,000",City
+8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,wolfenbüttel,52.0,1.0,59.25,3.0,"52,000",Medium Town
+8935,Computer Science – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,hildesheim,25.0,1.0,28.65,24.0,"1,01,858",City
+3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,"2,36,140",City,83.0,English,4,,offenburg,35.0,2.0,53.11,41.0,"59,646",Medium Town
+3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,"2,36,140",City,83.0,English,4,,furtwangen im schwarzwald,105.0,2.5,27.4,3.0,"9,000",Small Town
+3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,"2,36,140",City,83.0,English,4,,villingen-schwenningen,100.0,1.0,48.69,29.0,"85,000",City
+3736,MSc Computer Science,University Of Freiburg,freiburg im breisgau,"2,36,140",City,83.0,English,4,,gengenbach,45.0,2.0,46.95,0.0,"11,000",Small Town
+8900,Computer Science,Westsächsische Hochschule Zwickau - University Of Applied Sciences Zwickau,zwickau,"87,000",Medium Town,31.0,German,3,0,chemnitz,31.0,2.0,32.54,88.0,"2,48,563",City
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,erlangen,82.0,1.0,58.18,88.0,"1,16,562",City
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,hof,65.0,1.0,48.74,15.0,"45,000",Medium Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,bamberg,71.5,1.0,49.84,14.0,"77,592",Medium Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,amberg,95.0,1.0,57.73,5.0,"42,000",Medium Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,kronach,65.0,1.0,37.53,7.0,"17,000",Small Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,kulmbach,22.5,1.0,19.85,2.0,"26,000",Medium Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,coburg,95.0,1.0,56.1,14.0,"41,000",Medium Town
+5245,Computer Science (MSc),University Of Bayreuth,bayreuth,"74,000",Medium Town,15.0,English,4,0,weiden in der oberpfalz,85.0,1.0,51.66,2.0,"42,000",Medium Town
+7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,English,4,0,köthen,30.0,1.0,48.16,,"26,000",Medium Town
+7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,English,4,0,dessau-roßlau,52.0,1.0,51.53,9.0,"77,000",City
+7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,English,4,0,bernburg (saale),40.0,1.0,38.28,,"33,000",Medium Town
+7670,Visual Computing,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,English,4,0,möckern,75.0,2.5,21.48,64.0,"14,000",Small Town
+7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,passau,44.5,1.0,40.95,7.0,"52,000",Small Town
+7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,cham,90.0,2.5,54.35,17.0,"17,000",Small Town
+7744,MSc High Performance Computing / Quantum Computing,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0,"12,000",Small Town
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,darmstadt,47.5,1.0,52.94,102.0,"1,62,243",City
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,heilbronn,65.0,1.0,48.33,171.0,"126,000",City
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,mannheim,17.5,2.0,18.73,205.0,"3,10,000",City
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,karlsruhe,55.0,1.0,49.54,261.0,"3,08,707",City
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,dieburg,65.0,1.0,54.97,0.0,"15,000",Small Town
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,landau in der pfalz,65.0,1.0,48.42,4.0,"46,000",Medium Town
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,pforzheim,95.0,1.0,57.66,20.0,"1,25,000",City
+3981,Applied Computer Science (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,worms,45.0,1.0,34.41,16.0,"82,000",City
+4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,kassel,20.0,3.0,38.84,63.0,"2,00,000",City
+4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,höxter,105.0,2.5,49.89,1.0,"30,000",Medium Town
+4700,Applied Computer Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,witzenhausen,23.0,1.0,23.11,0.0,"15,000",Small Town
+3624,Computer Science (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+3624,Computer Science (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+3624,Computer Science (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0,"1,02,560",Large Town
+9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0,"29,000",Medium Town
+9042,Computer Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0,"88,000",City
+7618,Computer Science International,University Of Rostock,rostock,"2,09,920",City,58.0,English,4,0,wismar,69.5,1.0,49.45,0.0,"42,000",Medium Town
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,wuppertal,56.5,4.0,24.4,61.0,"3,55,000",City
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,kamp-lintfort,84.0,1.0,46.71,1.0,"38,000",Medium Town
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,dortmund,12.5,4.0,17.43,189.0,"5,93,317",City
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,gummersbach,105.0,2.5,55.91,8.0,"50,000",Medium Town
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,duisburg,30.0,2.0,32.4,102.0,"4,98,000",City
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,düsseldorf,45.0,2.0,42.04,467.0,"6,29,047",Metropolitan City
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,essen,12.5,4.0,14.41,154.0,"5,82,000",City
+9673,Computer Science MSc,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,4,,witten,12.5,4.0,9.45,6.0,"96,000",City
+8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,braunschweig,32.0,1.0,54.91,46.0,"250,000",City
+8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,wolfenbüttel,52.0,1.0,59.25,3.0,"52,000",Medium Town
+8936,Computer Engineering – Master Of Science,Leibniz University Hannover,hannover,"5,45,045",City,439.0,"German,English",4,0,hildesheim,25.0,1.0,28.65,24.0,"1,01,858",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,wuppertal,95.0,1.0,51.23,61.0,"3,55,000",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,bochum,84.0,1.0,46.71,39.0,"364,000",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,duisburg,48.0,1.0,16.48,102.0,"4,98,000",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,düsseldorf,65.0,1.0,34.62,467.0,"6,29,047",Metropolitan City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,mönchengladbach,65.0,1.0,35.05,29.0,"2,61,000",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,essen,65.0,1.0,32.86,154.0,"5,82,000",City
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,kleve,65.0,1.0,42.8,1.0,"50,000",Medium Town
+4490,"Information Engineering And Computer Science, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,witten,95.0,1.0,55.17,6.0,"96,000",City
+4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,"1,81,959",City,82.0,English,3,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,"1,81,959",City,82.0,English,3,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+4842,Saarbrücken Graduate School Of Computer Science,Saarland University,saarbrücken,"1,81,959",City,82.0,English,3,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,tübingen,49.0,3.0,30.18,56.0,"91,077",City
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,heilbronn,38.0,2.0,40.56,171.0,"126,000",City
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,nürtingen,27.5,2.0,20.44,61.0,"40,000",Medium Town
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,reutlingen,45.0,2.0,31.94,69.0,"1,15,000",City
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,pforzheim,40.0,2.0,37.19,20.0,"1,25,000",City
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,esslingen am neckar,12.5,4.0,10.16,7.0,"95,000",City
+4239,Computational Linguistics,University Of Stuttgart,stuttgart,"6,32,865",City,723.0,English,4,,geislingen an der steige,50.0,1.0,51.42,2.0,"27,000",Medium Town
+8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+8440,MSc In Computer Science And Software Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+3827,Visual Computing (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+3827,Visual Computing (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+3827,Visual Computing (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,weimar,75.0,1.0,43.47,4.0,"65,000",Medium Town
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,schmalkalden,75.0,1.0,32.95,13.0,"19,000",Small Town
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,jena,105.0,2.5,54.55,73.0,"1,10,000",City
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,kronach,110.0,2.5,57.74,7.0,"17,000",Small Town
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,coburg,100.0,1.0,47.8,14.0,"41,000",Medium Town
+4092,Research In Computer & Systems Engineering (RCSE),Technische Universität Ilmenau,ilmenau,"33,000",Medium Town,9.0,English,4,0,erfurt,45.0,1.0,33.37,60.0,"2,13,000",City
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,paderborn,73.0,1.0,33.28,92.0,"1,54,755",Large Town
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,münster,63.0,1.0,52.17,236.0,"3,20,946",City
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,soest,70.0,1.0,41.63,13.0,"47,000",Medium Town
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,osnabrück,70.0,1.0,46.56,43.0,"1,67,366",City
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,bielefeld,17.5,2.0,16.36,83.0,"3,38,332",City
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,lemgo,70.0,1.0,38.41,3.0,"41,000",Medium Town
+9725,MSc Data Science,Hochschule Bielefeld – University Of Applied Sciences And Arts (HSBI),gütersloh,"1,02,393",Large Town,13.0,English,4,0,detmold,70.0,1.0,34.62,9.0,"74,000",Medium Town
+4686,Human Computer Interaction (HCI),University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,marburg,89.5,1.0,52.98,34.0,"76,000",Medium Town
+4686,Human Computer Interaction (HCI),University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,gummersbach,180.0,1.0,36.67,8.0,"50,000",Medium Town
+4686,Human Computer Interaction (HCI),University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,gießen,65.0,1.0,55.95,33.0,"88,000",City
+4686,Human Computer Interaction (HCI),University Of Siegen,siegen,"1,02,560",Large Town,89.0,English,4,0,sankt augustin,125.0,1.0,59.95,11.0,"56,000",Medium Town
+4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,ilmenau,65.0,1.0,43.47,9.0,"33,000",Medium Town
+4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,jena,17.5,2.0,19.09,73.0,"1,10,000",City
+4660,Human-Computer Interaction (HCI),Bauhaus-Universität Weimar,weimar,"65,000",Medium Town,4.0,English,4,0,erfurt,14.5,4.0,20.99,60.0,"2,13,000",City
+3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0,"74,000",Medium Town
+3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0,"77,592",Medium Town
+3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0,"5,18,000",City
+3727,"Computational Engineering (CE), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0,"41,000",Medium Town
+5202,Computational Modelling And Simulation,Dresden University Of Technology,dresden,"5,63,311",City,256.0,English,4,0,freiberg,32.5,2.0,31.42,2.0,"40,000",Medium Town
+5202,Computational Modelling And Simulation,Dresden University Of Technology,dresden,"5,63,311",City,256.0,English,4,0,tharandt,22.5,2.0,13.21,0.0,"5,000",Small Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,bingen am rhein,65.0,1.0,58.63,6.0,"25,000",Small Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,friedberg (hessen),27.5,2.0,25.51,4.0,"29,000",Medium Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,darmstadt,25.0,2.0,25.08,102.0,"1,62,243",City
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,bad homburg vor der höhe,25.0,2.0,13.73,28.0,"54,000",Medium Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,dieburg,45.0,1.0,26.44,0.0,"15,000",Small Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,mainz,40.0,2.0,31.76,77.0,"2,17,000",City
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,gießen,55.0,1.0,52.9,33.0,"88,000",City
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,idstein,55.0,1.0,31.94,1.0,"25,000",Medium Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,weidenbach,105.0,2.5,57.34,0.0,"1,000",Small Town
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,worms,65.0,1.0,58.17,16.0,"82,000",City
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,aschaffenburg,35.0,2.0,36.21,10.0,"71,000",City
+3903,High Integrity Systems (HIS),Frankfurt University Of Applied Sciences,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,0,wiesbaden,45.0,2.0,31.67,86.0,"2,78,000",City
+9040,Data Science,Hamburg University Of Technology,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,lüneburg,32.5,2.0,43.13,33.0,"77,000",City
+9040,Data Science,Hamburg University Of Technology,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,wedel (holstein),42.5,2.0,19.96,12.0,"33,000",Medium Town
+9040,Data Science,Hamburg University Of Technology,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,lübeck,47.5,2.0,57.26,73.0,"2,18,095",City
+6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,bayreuth,62.0,1.0,48.74,15.0,"74,000",Medium Town
+6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,kronach,65.0,1.0,43.04,7.0,"17,000",Small Town
+6236,Applied Research In Computer Science (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,kulmbach,70.0,1.0,41.59,2.0,"26,000",Medium Town
+6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+6296,Data Science And Artificial Intelligence (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+8953,Data Science,Fulda University Of Applied Sciences,fulda,"68,000",Medium Town,26.0,English,3,0,schmalkalden,130.0,2.5,57.83,13.0,"19,000",Small Town
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,siegen,165.0,2.5,36.67,89.0,"1,02,560",Large Town
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,bonn,120.0,2.5,45.93,143.0,"3,36,465",City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,köln,75.0,1.0,43.5,480.0,"10,84,831",Metropolitan City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,wuppertal,105.0,2.5,37.64,61.0,"3,55,000",City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,bochum,165.0,2.5,55.91,39.0,"364,000",City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,dortmund,165.0,2.5,54.55,189.0,"5,93,317",City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,düsseldorf,135.0,2.5,59.3,467.0,"6,29,047",Metropolitan City
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,sankt augustin,105.0,2.5,38.46,11.0,"56,000",Medium Town
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,remagen,165.0,2.5,55.19,0.0,"17,000",Small Town
+8353,Digital Sciences (MSc),Technische Hochschule Köln (University Of Applied Sciences),gummersbach,"50,000",Medium Town,8.0,English,3,0,witten,135.0,2.5,48.23,6.0,"96,000",City
+7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,4,0,passau,44.5,1.0,40.95,7.0,"52,000",Small Town
+7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,4,0,cham,90.0,2.5,54.35,17.0,"17,000",Small Town
+7124,MSc Artificial Intelligence And Data Science,Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,4,0,pfarrkirchen,120.0,2.5,39.12,0.0,"12,000",Small Town
+5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,"59,646",Medium Town,41.0,English,3,,freiburg im breisgau,30.0,1.0,53.11,83.0,"2,36,140",City
+5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,"59,646",Medium Town,41.0,English,3,,furtwangen im schwarzwald,105.0,2.5,50.5,3.0,"9,000",Small Town
+5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,"59,646",Medium Town,41.0,English,3,,gengenbach,7.0,2.0,9.09,0.0,"11,000",Small Town
+5576,MSc In Enterprise And IT Security (ENITS),Offenburg University Of Applied Sciences,offenburg,"59,646",Medium Town,41.0,English,3,,kehl,12.5,2.0,15.06,4.0,"36,000",Medium Town
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,bayreuth,65.0,1.0,49.84,15.0,"74,000",Medium Town
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,erlangen,35.0,2.0,34.32,88.0,"1,16,562",City
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,nürnberg,40.0,2.0,50.59,16.0,"5,18,000",City
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,kronach,55.0,1.0,49.96,7.0,"17,000",Small Town
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,kulmbach,50.0,1.0,46.48,2.0,"26,000",Medium Town
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,coburg,45.0,1.0,41.16,14.0,"41,000",Medium Town
+4521,MSc In International Software Systems Science,University Of Bamberg,bamberg,"77,592",Medium Town,14.0,English,4,0,schweinfurt,55.0,1.0,50.91,11.0,"53,000",Medium Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,bonn,38.5,2.0,54.96,143.0,"3,36,465",City
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,bingen am rhein,65.0,1.0,47.97,6.0,"25,000",Small Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,rheinbach,67.5,1.0,54.91,0.0,"27,000",Medium Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,idstein,97.5,2.5,50.31,1.0,"25,000",Medium Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,sankt augustin,52.5,1.0,55.01,11.0,"56,000",Medium Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,remagen,30.0,2.0,36.13,0.0,"17,000",Small Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,weidenbach,45.0,1.0,30.23,0.0,"1,000",Small Town
+4384,Web And Data Science (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,wiesbaden,67.5,1.0,55.18,86.0,"2,78,000",City
+7708,MSc Natural Language Processing,Trier University,trier,"1,12,195",Large Town,7.0,English,4,0,birkenfeld,180.0,2.5,39.52,1.0,"7,000",Small Town
+3696,Software Systems Engineering,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,0,mönchengladbach,49.0,11.0,52.68,29.0,"2,61,000",City
+3696,Software Systems Engineering,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,0,jülich,48.0,1.0,25.38,3.0,"33,000",Medium Town
+7658,Data Science,University Of Münster,münster,"3,20,946",City,236.0,English,4,Null,gütersloh,55.0,1.0,52.17,13.0,"1,02,393",Large Town
+7658,Data Science,University Of Münster,münster,"3,20,946",City,236.0,English,4,Null,dortmund,45.0,2.0,51.09,189.0,"5,93,317",City
+7658,Data Science,University Of Münster,münster,"3,20,946",City,236.0,English,4,Null,soest,65.0,1.0,54.63,13.0,"47,000",Medium Town
+7658,Data Science,University Of Münster,münster,"3,20,946",City,236.0,English,4,Null,osnabrück,35.0,2.0,44.98,43.0,"1,67,366",City
+7658,Data Science,University Of Münster,münster,"3,20,946",City,236.0,English,4,Null,steinfurt,25.0,1.0,26.38,28.0,"34,000",Medium Town
+6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,3,4750,potsdam,28.0,6.0,26.14,62.0,"1,85,750",City
+6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,3,4750,wildau,35.0,2.0,26.5,1.0,"10,000",Small Town
+6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,3,4750,eberswalde,35.0,2.0,45.12,0.0,"40,000",Small Town
+6529,Professional IT Business & Digitalisation,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,3,4750,bergholz-rehbrücke,35.0,2.0,27.29,0.0,"8,000",Small Town
+7636,Data Science,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,0,mönchengladbach,49.0,11.0,52.68,29.0,"2,61,000",City
+7636,Data Science,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,0,jülich,48.0,1.0,25.38,3.0,"33,000",Medium Town
+7660,Data Science,Technische Universität Braunschweig,braunschweig,"250,000",City,46.0,English,4,0,hannover,38.0,2.0,54.91,439.0,"5,45,045",City
+7660,Data Science,Technische Universität Braunschweig,braunschweig,"250,000",City,46.0,English,4,0,wolfenbüttel,12.5,2.0,11.39,3.0,"52,000",Medium Town
+7660,Data Science,Technische Universität Braunschweig,braunschweig,"250,000",City,46.0,English,4,0,hildesheim,35.0,2.0,41.02,24.0,"1,01,858",City
+7660,Data Science,Technische Universität Braunschweig,braunschweig,"250,000",City,46.0,English,4,0,wernigerode,65.0,1.0,51.15,3.0,"33,000",Medium Town
+7660,Data Science,Technische Universität Braunschweig,braunschweig,"250,000",City,46.0,English,4,0,wolfsburg,25.0,2.0,24.92,42.0,"1,25,000",City
+3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,"126,000",City,171.0,English,3,,stuttgart,41.5,2.0,40.56,723.0,"6,32,865",City
+3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,"126,000",City,171.0,English,3,,heidelberg,65.0,1.0,48.33,78.0,"1,62,273",City
+3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,"126,000",City,171.0,English,3,,nürtingen,67.5,1.0,58.0,61.0,"40,000",Medium Town
+3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,"126,000",City,171.0,English,3,,pforzheim,82.5,1.0,46.95,20.0,"1,25,000",City
+3960,Software Engineering (SEM),Heilbronn University Of Applied Sciences,heilbronn,"126,000",City,171.0,English,3,,esslingen am neckar,55.0,1.0,44.9,7.0,"95,000",City
+4556,Management & Data Science (MSc),Leuphana University Lüneburg,lüneburg,"77,000",City,33.0,English,4,0,hamburg,35.0,2.0,43.13,777.0,"18,92,122",Metropolitan City
+4556,Management & Data Science (MSc),Leuphana University Lüneburg,lüneburg,"77,000",City,33.0,English,4,0,wedel (holstein),95.0,2.5,59.66,12.0,"33,000",Medium Town
+9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,3,6800,potsdam,28.0,6.0,26.14,62.0,"1,85,750",City
+9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,3,6800,wildau,35.0,2.0,26.5,1.0,"10,000",Small Town
+9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,3,6800,eberswalde,35.0,2.0,45.12,0.0,"40,000",Small Town
+9077,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,3,6800,bergholz-rehbrücke,35.0,2.0,27.29,0.0,"8,000",Small Town
+9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,"6,16,093",City,226.0,English,3,5450,köthen (anhalt),45.0,1.0,53.47,,"26,000",Medium Town
+9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,"6,16,093",City,226.0,English,3,5450,halle (saale),32.5,2.0,32.25,54.0,"2,38,000",City
+9691,Computer Science – Cyber Security Or Big Data & AI (MSc),SRH Universities,leipzig,"6,16,093",City,226.0,English,3,5450,dessau-roßlau,55.0,1.0,57.16,9.0,"77,000",City
+3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+3739,Master'S Programme In Language Science And Technology (LST),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+8429,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+8429,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+8429,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,lüneburg,32.5,2.0,43.13,33.0,"77,000",City
+4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,wedel (holstein),42.5,2.0,19.96,12.0,"33,000",Medium Town
+4350,MSc Intelligent Adaptive Systems (IAS),Universität Hamburg,hamburg,"18,92,122",Metropolitan City,777.0,English,4,0,lübeck,47.5,2.0,57.26,73.0,"2,18,095",City
+5253,Data Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0,"37,55,251",Metropolitan City
+5253,Data Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0,"10,000",Small Town
+5253,Data Science,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0,"8,000",Small Town
+9858,Data Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0,"42,000",Medium Town
+9858,Data Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0,"1,41,029",Large Town
+9858,Data Science,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,cham,67.0,0.5,47.02,17.0,"17,000",Small Town
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,bonn,65.0,2.0,59.14,143.0,"3,36,465",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,köln,35.0,4.0,34.43,480.0,"10,84,831",Metropolitan City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,wuppertal,25.0,4.0,28.38,61.0,"3,55,000",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,bochum,45.0,2.0,42.04,39.0,"364,000",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,kamp-lintfort,65.0,1.0,34.62,1.0,"38,000",Medium Town
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,dortmund,52.5,4.0,57.74,189.0,"5,93,317",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,gummersbach,95.0,1.0,59.3,8.0,"50,000",Medium Town
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,duisburg,17.5,4.0,23.35,102.0,"4,98,000",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,mönchengladbach,25.0,2.0,24.07,29.0,"2,61,000",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,essen,35.0,2.0,30.81,154.0,"5,82,000",City
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,jülich,65.0,1.0,44.56,3.0,"33,000",Medium Town
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,sankt augustin,75.0,1.0,57.87,11.0,"56,000",Medium Town
+6937,Artificial Intelligence And Data Science,Heinrich Heine University Düsseldorf,düsseldorf,"6,29,047",Metropolitan City,467.0,English,4,0,witten,55.0,2.0,45.51,6.0,"96,000",City
+4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,"3,01,033",City,109.0,English,4,0,garching b. münchen,65.0,1.0,57.37,28.0,"17,000",Small Town
+4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,"3,01,033",City,109.0,English,4,0,münchen,45.0,2.0,56.53,1606.0,"14,72,000",Metropolitan City
+4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,"3,01,033",City,109.0,English,4,0,ingolstadt,65.0,1.0,58.59,87.0,"1,41,029",Large Town
+4001,Master Of Science In Software Engineering,University Of Augsburg,augsburg,"3,01,033",City,109.0,English,4,0,neuburg an der donau,55.0,1.0,45.91,1.0,"29,000",Medium Town
+3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,4,0,gütersloh,55.0,1.0,52.17,13.0,"1,02,393",Large Town
+3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,4,0,dortmund,45.0,2.0,51.09,189.0,"5,93,317",City
+3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,4,0,soest,65.0,1.0,54.63,13.0,"47,000",Medium Town
+3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,4,0,osnabrück,35.0,2.0,44.98,43.0,"1,67,366",City
+3877,Geoinformatics And Spatial Data Science (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,4,0,steinfurt,25.0,1.0,26.38,28.0,"34,000",Medium Town
+7641,Applied Data Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,kassel,20.0,3.0,38.84,63.0,"2,00,000",City
+7641,Applied Data Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,höxter,105.0,2.5,49.89,1.0,"30,000",Medium Town
+7641,Applied Data Science (MSc),University Of Göttingen,göttingen,"1,18,946",City,36.0,English,4,0,witzenhausen,23.0,1.0,23.11,0.0,"15,000",Small Town
+9046,Data Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0,"1,02,560",Large Town
+9046,Data Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0,"29,000",Medium Town
+9046,Data Science (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0,"88,000",City
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,aalen,65.0,1.0,49.4,11.0,"67,000",Medium Town
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,neu-ulm,3.5,4.0,0.77,25.0,"58,000",Medium Town
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,nürtingen,55.0,1.0,54.62,61.0,"40,000",Medium Town
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,reutlingen,65.0,1.0,58.62,69.0,"1,15,000",City
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,riedlingen,55.0,1.0,47.03,0.0,"10,000",Small Town
+4581,Master Of Science In Cognitive Systems,Ulm University,ulm,"1,28,928",City,129.0,English,4,,geislingen an der steige,35.0,1.0,27.31,2.0,"27,000",Medium Town
+5252,Digital Health,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0,"37,55,251",Metropolitan City
+5252,Digital Health,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0,"10,000",Small Town
+5252,Digital Health,University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0,"8,000",Small Town
+4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,4,4400,potsdam,28.0,6.0,26.14,62.0,"1,85,750",City
+4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,4,4400,wildau,35.0,2.0,26.5,1.0,"10,000",Small Town
+4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,4,4400,eberswalde,35.0,2.0,45.12,0.0,"40,000",Small Town
+4667,Master'S In Project Management & Data Science,HTW Berlin University Of Applied Sciences,berlin,"37,55,251",Metropolitan City,1062.0,English,4,4400,bergholz-rehbrücke,35.0,2.0,27.29,0.0,"8,000",Small Town
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,darmstadt,47.5,1.0,52.94,102.0,"1,62,243",City
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,heilbronn,65.0,1.0,48.33,171.0,"126,000",City
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,mannheim,17.5,2.0,18.73,205.0,"3,10,000",City
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,karlsruhe,55.0,1.0,49.54,261.0,"3,08,707",City
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,dieburg,65.0,1.0,54.97,0.0,"15,000",Small Town
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,landau in der pfalz,65.0,1.0,48.42,4.0,"46,000",Medium Town
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,pforzheim,95.0,1.0,57.66,20.0,"1,25,000",City
+4886,Applied Data Science And Analytics (MSc),SRH Universities,heidelberg,"1,62,273",City,78.0,English,4,6450,worms,45.0,1.0,34.41,16.0,"82,000",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,bonn,25.0,4.0,24.72,143.0,"3,36,465",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,wuppertal,35.0,2.0,39.32,61.0,"3,55,000",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,gummersbach,65.0,1.0,43.5,8.0,"50,000",Medium Town
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,duisburg,45.0,2.0,57.0,102.0,"4,98,000",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,düsseldorf,25.0,4.0,34.43,467.0,"6,29,047",Metropolitan City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,mönchengladbach,45.0,2.0,46.54,29.0,"2,61,000",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,essen,55.0,2.0,57.97,154.0,"5,82,000",City
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,jülich,65.0,1.0,42.14,3.0,"33,000",Medium Town
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,rheinbach,55.0,1.0,34.79,0.0,"27,000",Medium Town
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,sankt augustin,25.0,2.0,24.3,11.0,"56,000",Medium Town
+5453,Information Systems – MSc,University Of Cologne,köln,"10,84,831",Metropolitan City,480.0,"German,English",4,0,remagen,45.0,1.0,44.22,0.0,"17,000",Small Town
+4874,MSc Data Analytics And Decision Science (DDS),RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,7500,mönchengladbach,49.0,11.0,52.68,29.0,"2,61,000",City
+4874,MSc Data Analytics And Decision Science (DDS),RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,7500,jülich,48.0,1.0,25.38,3.0,"33,000",Medium Town
+4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,köthen,30.0,1.0,48.16,,"26,000",Medium Town
+4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,dessau-roßlau,52.0,1.0,51.53,9.0,"77,000",City
+4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,bernburg (saale),40.0,1.0,38.28,,"33,000",Medium Town
+4427,Digital Engineering (DigiEng),Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,möckern,75.0,2.5,21.48,64.0,"14,000",Small Town
+3614,Cognitive Science (MSc),Osnabrück University,osnabrück,"1,67,366",City,43.0,English,4,0,gütersloh,75.0,1.0,46.56,13.0,"1,02,393",Large Town
+3614,Cognitive Science (MSc),Osnabrück University,osnabrück,"1,67,366",City,43.0,English,4,0,münster,35.0,2.0,44.98,236.0,"3,20,946",City
+3614,Cognitive Science (MSc),Osnabrück University,osnabrück,"1,67,366",City,43.0,English,4,0,bielefeld,65.0,1.0,43.43,83.0,"3,38,332",City
+3614,Cognitive Science (MSc),Osnabrück University,osnabrück,"1,67,366",City,43.0,English,4,0,steinfurt,55.0,1.0,48.78,28.0,"34,000",Medium Town
+4653,MSc In Data Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+4653,MSc In Data Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+4653,MSc In Data Engineering,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+7784,MSc AI Engineering,University Of Passau,passau,"52,000",Small Town,7.0,English,4,0,deggendorf,46.0,1.0,40.95,25.0,"36,000",Small Town
+7784,MSc AI Engineering,University Of Passau,passau,"52,000",Small Town,7.0,English,4,0,pfarrkirchen,82.5,1.0,41.74,0.0,"12,000",Small Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,bingen am rhein,59.0,1.0,56.7,6.0,"25,000",Small Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,heidelberg,34.0,2.0,52.94,78.0,"1,62,273",City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,friedberg (hessen),65.0,1.0,50.39,4.0,"29,000",Medium Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,frankfurt am main,25.0,2.0,25.08,730.0,"7,73,068",Metropolitan City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,mannheim,35.0,2.0,46.48,205.0,"3,10,000",City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,bad homburg vor der höhe,65.0,1.0,38.21,28.0,"54,000",Medium Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,dieburg,12.5,2.0,11.78,0.0,"15,000",Small Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,mainz,45.0,1.0,31.4,77.0,"2,17,000",City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,idstein,95.0,2.5,47.28,1.0,"25,000",Medium Town
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,worms,55.0,1.0,36.16,16.0,"82,000",City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,aschaffenburg,45.0,1.0,34.71,10.0,"71,000",City
+4258,MSc Artificial Intelligence And Machine Learning,Technical University Of Darmstadt,darmstadt,"1,62,243",City,102.0,English,4,0,wiesbaden,55.0,1.0,37.94,86.0,"2,78,000",City
+9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,"67,000",Medium Town,11.0,English,3,1500,ulm,64.5,1.0,49.4,129.0,"1,28,928",City
+9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,"67,000",Medium Town,11.0,English,3,1500,neu-ulm,85.0,1.0,49.65,25.0,"58,000",Medium Town
+9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,"67,000",Medium Town,11.0,English,3,1500,esslingen am neckar,75.0,1.0,58.69,7.0,"95,000",City
+9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,"67,000",Medium Town,11.0,English,3,1500,feuchtwangen,70.0,1.0,40.66,1.0,"12,000",Small Town
+9737,MSc In Machine Learning & Data Analytics,Aalen University,aalen,"67,000",Medium Town,11.0,English,3,1500,geislingen an der steige,60.0,1.0,30.49,2.0,"27,000",Medium Town
+3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,4,3300,bayreuth,62.0,1.0,48.74,15.0,"74,000",Medium Town
+3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,4,3300,kronach,65.0,1.0,43.04,7.0,"17,000",Small Town
+3667,Software Engineering For Industrial Applications (MEng),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,4,3300,kulmbach,70.0,1.0,41.59,2.0,"26,000",Medium Town
+8382,Internet Of Things (IoT) And Smart Systems,Westsächsische Hochschule Zwickau - University Of Applied Sciences Zwickau,zwickau,"87,000",Medium Town,31.0,English,4,0,chemnitz,31.0,2.0,32.54,88.0,"2,48,563",City
+9198,MSc In Applied Health Informatics & Digital Medicine,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,6650,mönchengladbach,49.0,11.0,52.68,29.0,"2,61,000",City
+9198,MSc In Applied Health Informatics & Digital Medicine,RWTH Aachen University,aachen,"2,52,136",City,177.0,English,4,6650,jülich,48.0,1.0,25.38,3.0,"33,000",Medium Town
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,darmstadt,47.5,1.0,52.94,102.0,"1,62,243",City
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,heilbronn,65.0,1.0,48.33,171.0,"126,000",City
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,mannheim,17.5,2.0,18.73,205.0,"3,10,000",City
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,karlsruhe,55.0,1.0,49.54,261.0,"3,08,707",City
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,dieburg,65.0,1.0,54.97,0.0,"15,000",Small Town
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,landau in der pfalz,65.0,1.0,48.42,4.0,"46,000",Medium Town
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,pforzheim,95.0,1.0,57.66,20.0,"1,25,000",City
+4343,Information Technology (MEng),SRH Universities,heidelberg,"1,62,273",City,78.0,English,3,6450,worms,45.0,1.0,34.41,16.0,"82,000",City
+7054,Business Intelligence And Data Analytics,University Of Applied Sciences Emden/Leer,emden,"50,000",Medium Town,6.0,English,3,5980,leer (ostfriesland),18.0,1.0,22.4,3.0,"34,000",Medium Town
+8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,"42,000",Medium Town,5.0,English,3,0,regensburg,51.0,1.0,51.68,106.0,"1,57,443",City
+8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,"42,000",Medium Town,5.0,English,3,0,bayreuth,73.0,1.0,57.73,15.0,"74,000",Medium Town
+8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,"42,000",Medium Town,5.0,English,3,0,nürnberg,54.5,1.0,55.84,16.0,"5,18,000",City
+8977,Artificial Intelligence For Industrial Applications,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),amberg,"42,000",Medium Town,5.0,English,3,0,weiden,35.0,1.0,33.55,,"42,000",Medium Town
+8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,bayreuth,62.0,1.0,48.74,15.0,"74,000",Medium Town
+8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,kronach,65.0,1.0,43.04,7.0,"17,000",Small Town
+8518,Artificial Intelligence And Robotics (MSc),Hof University Of Applied Sciences,hof,"45,000",Medium Town,15.0,English,3,0,kulmbach,70.0,1.0,41.59,2.0,"26,000",Medium Town
+3686,Global Software Development (MSc),Fulda University Of Applied Sciences,fulda,"68,000",Medium Town,26.0,English,3,0,schmalkalden,130.0,2.5,57.83,13.0,"19,000",Small Town
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,aalen,65.0,1.0,49.4,11.0,"67,000",Medium Town
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,neu-ulm,3.5,4.0,0.77,25.0,"58,000",Medium Town
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,nürtingen,55.0,1.0,54.62,61.0,"40,000",Medium Town
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,reutlingen,65.0,1.0,58.62,69.0,"1,15,000",City
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,riedlingen,55.0,1.0,47.03,0.0,"10,000",Small Town
+4728,Intelligent Systems (ISY),Ulm University Of Applied Sciences,ulm,"1,28,928",City,129.0,English,3,,geislingen an der steige,35.0,1.0,27.31,2.0,"27,000",Medium Town
+9770,MSc In Advanced Software Technology,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+9770,MSc In Advanced Software Technology,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+9770,MSc In Advanced Software Technology,Constructor University,bremen,"5,69,396",City,268.0,English,4,10000,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,bingen am rhein,65.0,1.0,58.63,6.0,"25,000",Small Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,friedberg (hessen),27.5,2.0,25.51,4.0,"29,000",Medium Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,darmstadt,25.0,2.0,25.08,102.0,"1,62,243",City
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,bad homburg vor der höhe,25.0,2.0,13.73,28.0,"54,000",Medium Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,dieburg,45.0,1.0,26.44,0.0,"15,000",Small Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,mainz,40.0,2.0,31.76,77.0,"2,17,000",City
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,gießen,55.0,1.0,52.9,33.0,"88,000",City
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,idstein,55.0,1.0,31.94,1.0,"25,000",Medium Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,weidenbach,105.0,2.5,57.34,0.0,"1,000",Small Town
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,worms,65.0,1.0,58.17,16.0,"82,000",City
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,aschaffenburg,35.0,2.0,36.21,10.0,"71,000",City
+9643,Master'S In Applied Data Science (MSc),Frankfurt School Of Finance & Management,frankfurt am main,"7,73,068",Metropolitan City,730.0,English,4,,wiesbaden,45.0,2.0,31.67,86.0,"2,78,000",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,wuppertal,35.0,2.0,34.27,61.0,"3,55,000",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,bochum,12.5,4.0,17.43,39.0,"364,000",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,gummersbach,105.0,2.5,54.55,8.0,"50,000",Medium Town
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,duisburg,45.0,2.0,49.82,102.0,"4,98,000",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,münster,55.0,2.0,51.09,236.0,"3,20,946",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,soest,45.0,1.0,44.93,13.0,"47,000",Medium Town
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,düsseldorf,55.0,2.0,57.74,467.0,"6,29,047",Metropolitan City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,essen,25.0,2.0,31.84,154.0,"5,82,000",City
+4879,Master'S In Digital Transformation (MDT),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,witten,12.5,2.0,12.47,6.0,"96,000",City
+9776,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+9776,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+9776,MSc In Data Science For Society And Business,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,"3,08,707",City,261.0,English,4,9000,heidelberg,18.0,4.0,49.54,78.0,"1,62,273",City
+4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,"3,08,707",City,261.0,English,4,9000,mannheim,35.0,2.0,53.85,205.0,"3,10,000",City
+4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,"3,08,707",City,261.0,English,4,9000,landau in der pfalz,35.0,2.0,30.08,4.0,"46,000",Medium Town
+4553,"Information Systems Engineering & Management (MSc, Executive)",Karlsruhe Institute Of Technology,karlsruhe,"3,08,707",City,261.0,English,4,9000,pforzheim,25.0,2.0,25.45,20.0,"1,25,000",City
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,regensburg,65.0,1.0,56.97,106.0,"1,57,443",City
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,garching b. münchen,65.0,1.0,59.29,28.0,"17,000",Small Town
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,augsburg,65.0,1.0,58.59,109.0,"3,01,033",City
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,freising,35.0,2.0,46.65,20.0,"50,000",Medium Town
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,eichstätt,30.0,1.0,22.88,6.0,"13,000",Small Town
+9704,Artificial Intelligence,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,3,500,neuburg an der donau,20.0,2.0,18.28,1.0,"29,000",Medium Town
+4775,Master'S In Industrial Informatics,University Of Applied Sciences Emden/Leer,emden,"50,000",Medium Town,6.0,English,3,0,leer (ostfriesland),18.0,1.0,22.4,3.0,"34,000",Medium Town
+8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,"52,000",Medium Town,3.0,"German,English",4,0,braunschweig,9.0,2.0,59.25,46.0,"250,000",City
+8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,"52,000",Medium Town,3.0,"German,English",4,0,hannover,65.0,1.0,11.39,439.0,"5,45,045",City
+8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,"52,000",Medium Town,3.0,"German,English",4,0,hildesheim,65.0,1.0,39.91,24.0,"1,01,858",City
+8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,"52,000",Medium Town,3.0,"German,English",4,0,wernigerode,65.0,1.0,40.39,3.0,"33,000",Medium Town
+8902,Digital Technologies (MSc),Ostfalia University Of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel,wolfenbüttel,"52,000",Medium Town,3.0,"German,English",4,0,wolfsburg,65.0,1.0,33.44,42.0,"1,25,000",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,tübingen,49.0,3.0,30.18,56.0,"91,077",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,heilbronn,38.0,2.0,40.56,171.0,"126,000",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,nürtingen,27.5,2.0,20.44,61.0,"40,000",Medium Town
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,reutlingen,45.0,2.0,31.94,69.0,"1,15,000",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,pforzheim,40.0,2.0,37.19,20.0,"1,25,000",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,esslingen am neckar,12.5,4.0,10.16,7.0,"95,000",City
+9001,Software Technology,Hochschule Für Technik Stuttgart - University Of Applied Sciences,stuttgart,"6,32,865",City,723.0,English,3,,geislingen an der steige,50.0,1.0,51.42,2.0,"27,000",Medium Town
+8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0,"5,45,045",City
+8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0,"250,000",City
+8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0,"52,000",Medium Town
+8417,Software Engineering (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0,"30,000",Medium Town
+9228,Information Systems,FH Aachen University Of Applied Sciences,aachen,"2,52,136",City,177.0,"English,German",4,0,mönchengladbach,49.0,11.0,52.68,29.0,"2,61,000",City
+9228,Information Systems,FH Aachen University Of Applied Sciences,aachen,"2,52,136",City,177.0,"English,German",4,0,jülich,48.0,1.0,25.38,3.0,"33,000",Medium Town
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,wuppertal,35.0,2.0,34.27,61.0,"3,55,000",City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,bochum,12.5,4.0,17.43,39.0,"364,000",City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,gummersbach,105.0,2.5,54.55,8.0,"50,000",Medium Town
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,duisburg,45.0,2.0,49.82,102.0,"4,98,000",City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,münster,55.0,2.0,51.09,236.0,"3,20,946",City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,soest,45.0,1.0,44.93,13.0,"47,000",Medium Town
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,düsseldorf,55.0,2.0,57.74,467.0,"6,29,047",Metropolitan City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,essen,25.0,2.0,31.84,154.0,"5,82,000",City
+4513,Master'S In Embedded Systems Engineering (ESE),Dortmund University Of Applied Sciences And Arts,dortmund,"5,93,317",City,189.0,English,4,0,witten,12.5,2.0,12.47,6.0,"96,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,wuppertal,95.0,1.0,51.23,61.0,"3,55,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,bochum,84.0,1.0,46.71,39.0,"364,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,duisburg,48.0,1.0,16.48,102.0,"4,98,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,düsseldorf,65.0,1.0,34.62,467.0,"6,29,047",Metropolitan City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,mönchengladbach,65.0,1.0,35.05,29.0,"2,61,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,essen,65.0,1.0,32.86,154.0,"5,82,000",City
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,kleve,65.0,1.0,42.8,1.0,"50,000",Medium Town
+4225,"Usability Engineering, MSc",Rhine-Waal University Of Applied Sciences,kamp-lintfort,"38,000",Medium Town,1.0,English,3,0,witten,95.0,1.0,55.17,6.0,"96,000",City
+4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,köthen,30.0,1.0,48.16,,"26,000",Medium Town
+4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,dessau-roßlau,52.0,1.0,51.53,9.0,"77,000",City
+4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,bernburg (saale),40.0,1.0,38.28,,"33,000",Medium Town
+4429,MSc In Data & Knowledge Engineering,Otto Von Guericke University Magdeburg,magdeburg,"2,39,364",City,44.0,"English,German",4,0,möckern,75.0,2.5,21.48,64.0,"14,000",Small Town
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,bonn,25.0,4.0,24.72,143.0,"3,36,465",City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,wuppertal,35.0,2.0,39.32,61.0,"3,55,000",City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,gummersbach,65.0,1.0,43.5,8.0,"50,000",Medium Town
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,duisburg,45.0,2.0,57.0,102.0,"4,98,000",City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,düsseldorf,25.0,4.0,34.43,467.0,"6,29,047",Metropolitan City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,mönchengladbach,45.0,2.0,46.54,29.0,"2,61,000",City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,essen,55.0,2.0,57.97,154.0,"5,82,000",City
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,jülich,65.0,1.0,42.14,3.0,"33,000",Medium Town
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,rheinbach,55.0,1.0,34.79,0.0,"27,000",Medium Town
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,sankt augustin,25.0,2.0,24.3,11.0,"56,000",Medium Town
+4247,Game Development And Research (MA),Technische Hochschule Köln (University Of Applied Sciences),köln,"10,84,831",Metropolitan City,480.0,English,4,Null,remagen,45.0,1.0,44.22,0.0,"17,000",Small Town
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,regensburg,65.0,1.0,56.97,106.0,"1,57,443",City
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,garching b. münchen,65.0,1.0,59.29,28.0,"17,000",Small Town
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,augsburg,65.0,1.0,58.59,109.0,"3,01,033",City
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,freising,35.0,2.0,46.65,20.0,"50,000",Medium Town
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,eichstätt,30.0,1.0,22.88,6.0,"13,000",Small Town
+6140,User Experience Design,Technische Hochschule Ingolstadt,ingolstadt,"1,41,029",Large Town,87.0,English,4,500,neuburg an der donau,20.0,2.0,18.28,1.0,"29,000",Medium Town
+9773,MSc In Data Engineering Technologies,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,bremerhaven,40.0,1.0,54.86,13.0,"1,13,000",City
+9773,MSc In Data Engineering Technologies,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,oldenburg,29.5,3.0,40.3,39.0,"1,72,830",City
+9773,MSc In Data Engineering Technologies,Constructor University,bremen,"5,69,396",City,268.0,English,4,2500,elsfleth,22.5,1.0,29.41,0.0,"9,000",Small Town
+7852,MSc Artificial Intelligence,Technical University Of Applied Sciences Würzburg-Schweinfurt (THWS),würzburg,"1,27,810",City,62.0,English,3,0,schweinfurt,24.0,2.0,36.44,11.0,"53,000",Medium Town
+3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,"41,000",Medium Town,3.0,English,6,0,paderborn,95.0,1.0,36.02,92.0,"1,54,755",Large Town
+3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,"41,000",Medium Town,3.0,English,6,0,gütersloh,65.0,1.0,38.41,13.0,"1,02,393",Large Town
+3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,"41,000",Medium Town,3.0,English,6,0,bielefeld,65.0,1.0,25.44,83.0,"3,38,332",City
+3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,"41,000",Medium Town,3.0,English,6,0,detmold,25.0,2.0,10.33,9.0,"74,000",Medium Town
+3632,Information Technology,OWL University Of Applied Sciences And Arts,lemgo,"41,000",Medium Town,3.0,English,6,0,höxter,95.0,1.0,40.34,1.0,"30,000",Medium Town
+7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0,"74,000",Medium Town
+7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0,"77,592",Medium Town
+7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0,"5,18,000",City
+7657,"Artificial Intelligence (AI), MSc",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0,"41,000",Medium Town
+4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,zwickau,36.0,2.0,32.54,31.0,"87,000",Medium Town
+4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,freiberg,35.0,2.0,31.29,2.0,"40,000",Medium Town
+4122,Automotive Software Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,tharandt,55.0,2.0,49.48,0.0,"5,000",Small Town
+9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,passau,44.5,1.0,40.95,7.0,"52,000",Small Town
+9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,cham,90.0,2.5,54.35,17.0,"17,000",Small Town
+9841,"Automotive Software Engineering, MEng",Deggendorf Institute Of Technology,deggendorf,"36,000",Small Town,25.0,English,3,0,pfarrkirchen,120.0,2.5,39.12,0.0,"12,000",Small Town
+9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0,"5,45,045",City
+9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0,"250,000",City
+9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0,"52,000",Medium Town
+9709,Cognitive System (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0,"30,000",Medium Town
+9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,4,1294,potsdam,28.0,6.0,26.14,62.0,"1,85,750",City
+9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,4,1294,wildau,35.0,2.0,26.5,1.0,"10,000",Small Town
+9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,4,1294,eberswalde,35.0,2.0,45.12,0.0,"40,000",Small Town
+9679,CyberMACS (Erasmus Mundus) | Applied Cybersecurity (MSc),SRH Universities,berlin,"37,55,251",Metropolitan City,1062.0,English,4,1294,bergholz-rehbrücke,35.0,2.0,27.29,0.0,"8,000",Small Town
+7711,Cybersecurity (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+7711,Cybersecurity (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+7711,Cybersecurity (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,hannover,27.5,2.0,28.65,439.0,"5,45,045",City
+5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,braunschweig,28.5,2.0,41.02,46.0,"250,000",City
+5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,wolfenbüttel,42.5,1.0,39.91,3.0,"52,000",Medium Town
+5561,Data Analytics (MSc),University Of Hildesheim,hildesheim,"1,01,858",City,24.0,English,4,0,höxter,160.0,2.0,57.54,1.0,"30,000",Medium Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,bonn,38.5,2.0,54.96,143.0,"3,36,465",City
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,bingen am rhein,65.0,1.0,47.97,6.0,"25,000",Small Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,rheinbach,67.5,1.0,54.91,0.0,"27,000",Medium Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,idstein,97.5,2.5,50.31,1.0,"25,000",Medium Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,sankt augustin,52.5,1.0,55.01,11.0,"56,000",Medium Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,remagen,30.0,2.0,36.13,0.0,"17,000",Small Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,weidenbach,45.0,1.0,30.23,0.0,"1,000",Small Town
+6924,E-Government (MSc),University Of Koblenz,koblenz,"1,15,268",City,33.0,English,4,0,wiesbaden,67.5,1.0,55.18,86.0,"2,78,000",City
+9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,amberg,46.0,1.0,51.68,5.0,"42,000",Medium Town
+9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,ingolstadt,65.0,1.0,56.97,87.0,"1,41,029",Large Town
+9863,Human-Centred Artificial Intelligence,University Of Regensburg,regensburg,"1,57,443",City,106.0,English,4,0,cham,67.0,0.5,47.02,17.0,"17,000",Small Town
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,paderborn,47.5,1.0,36.85,92.0,"1,54,755",Large Town
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,gütersloh,17.5,2.0,16.36,13.0,"1,02,393",Large Town
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,soest,65.0,1.0,57.69,13.0,"47,000",Medium Town
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,osnabrück,55.0,1.0,43.43,43.0,"1,67,366",City
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,lemgo,37.5,1.0,25.44,3.0,"41,000",Medium Town
+9646,Intelligent Interactive Systems,Bielefeld University,bielefeld,"3,38,332",City,83.0,English,4,0,detmold,32.5,1.0,25.64,9.0,"74,000",Medium Town
+3803,Distributed Systems Engineering (DSE),Dresden University Of Technology,dresden,"5,63,311",City,256.0,English,4,0,freiberg,32.5,2.0,31.42,2.0,"40,000",Medium Town
+3803,Distributed Systems Engineering (DSE),Dresden University Of Technology,dresden,"5,63,311",City,256.0,English,4,0,tharandt,22.5,2.0,13.21,0.0,"5,000",Small Town
+9072,IT Security (MA),Universität Zu Lübeck,lübeck,"2,18,095",City,73.0,English,4,0,hamburg,52.5,2.0,57.26,777.0,"18,92,122",Metropolitan City
+9072,IT Security (MA),Universität Zu Lübeck,lübeck,"2,18,095",City,73.0,English,4,0,wismar,85.0,1.0,51.37,0.0,"42,000",Medium Town
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,köln,25.0,4.0,24.72,480.0,"10,84,831",Metropolitan City
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,wuppertal,65.0,1.0,59.06,61.0,"3,55,000",City
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,gummersbach,95.0,1.0,45.93,8.0,"50,000",Medium Town
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,koblenz,37.5,2.0,54.96,33.0,"1,15,268",City
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,düsseldorf,65.0,2.0,59.14,467.0,"6,29,047",Metropolitan City
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,jülich,85.0,1.0,56.22,3.0,"33,000",Medium Town
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,rheinbach,27.5,2.0,16.31,0.0,"27,000",Medium Town
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,sankt augustin,12.5,4.0,7.59,11.0,"56,000",Medium Town
+3728,Media Informatics,RWTH Aachen University,bonn,"3,36,465",City,143.0,English,4,0,remagen,22.5,2.0,19.52,0.0,"17,000",Small Town
+4655,Web Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,zwickau,36.0,2.0,32.54,31.0,"87,000",Medium Town
+4655,Web Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,freiberg,35.0,2.0,31.29,2.0,"40,000",Medium Town
+4655,Web Engineering,Chemnitz University Of Technology,chemnitz,"2,48,563",City,88.0,English,4,0,tharandt,55.0,2.0,49.48,0.0,"5,000",Small Town
+9003,Artificial Intelligence,Universität Zu Lübeck,lübeck,"2,18,095",City,73.0,English,6,0,hamburg,52.5,2.0,57.26,777.0,"18,92,122",Metropolitan City
+9003,Artificial Intelligence,Universität Zu Lübeck,lübeck,"2,18,095",City,73.0,English,6,0,wismar,85.0,1.0,51.37,0.0,"42,000",Medium Town
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,konstanz,165.0,1.0,59.35,29.0,"84,693",City
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,tübingen,125.0,1.0,51.38,56.0,"91,077",City
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,ulm,55.0,1.0,47.03,129.0,"1,28,928",City
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,neu-ulm,55.0,1.0,47.39,25.0,"58,000",Medium Town
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,weingarten,95.0,1.0,40.46,5.0,"24,000",Medium Town
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,nürtingen,125.0,1.0,53.6,61.0,"40,000",Medium Town
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,reutlingen,125.0,1.0,42.41,69.0,"1,15,000",City
+9223,Business Analytics (MSc),SRH Distance Learning University,riedlingen,"10,000",Small Town,0.0,English,3,Null,geislingen an der steige,125.0,1.0,58.59,2.0,"27,000",Medium Town
+3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,"9,000",Small Town,3.0,English,3,Null,freiburg im breisgau,105.0,1.0,27.4,83.0,"2,36,140",City
+3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,"9,000",Small Town,3.0,English,3,Null,offenburg,135.0,1.0,50.5,41.0,"59,646",Medium Town
+3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,"9,000",Small Town,3.0,English,3,Null,villingen-schwenningen,75.0,1.0,21.44,29.0,"85,000",City
+3737,Business Consulting Master (BCM),Furtwangen University,furtwangen im schwarzwald,"9,000",Small Town,3.0,English,3,Null,gengenbach,135.0,1.0,41.69,0.0,"11,000",Small Town
+8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,bremen,28.5,2.0,40.3,268.0,"5,69,396",City
+8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,bremerhaven,85.0,1.0,52.03,13.0,"1,13,000",City
+8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,leer (ostfriesland),45.0,1.0,51.73,3.0,"34,000",Medium Town
+8944,Digitalised Energy Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,elsfleth,22.5,1.0,19.46,0.0,"9,000",Small Town
+3923,Embedded Systems (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+3923,Embedded Systems (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+3923,Embedded Systems (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,bremen,28.5,2.0,40.3,268.0,"5,69,396",City
+7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,bremerhaven,85.0,1.0,52.03,13.0,"1,13,000",City
+7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,leer (ostfriesland),45.0,1.0,51.73,3.0,"34,000",Medium Town
+7040,Engineering Of Socio-Technical Systems,Carl Von Ossietzky University Of Oldenburg,oldenburg,"1,72,830",City,39.0,English,4,0,elsfleth,22.5,1.0,19.46,0.0,"9,000",Small Town
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,bingen am rhein,91.0,1.0,59.01,6.0,"25,000",Small Town
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,mannheim,50.0,1.0,50.88,205.0,"3,10,000",City
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,birkenfeld,60.0,1.0,49.35,1.0,"7,000",Small Town
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,landau in der pfalz,40.0,1.0,36.95,4.0,"46,000",Medium Town
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,worms,60.0,1.0,47.7,16.0,"82,000",City
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,zweibrücken,30.0,1.0,36.52,6.0,"34,000",Medium Town
+3841,Master'S In Software Engineering For Embedded Systems (DISC),RPTU University Of Kaiserslautern-Landau,kaiserslautern,"1,01,228",City,22.0,English,4,2450,pirmasens,35.0,1.0,29.48,3.0,"40,000",Medium Town
+4634,Media Informatics (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,birkenfeld,135.0,2.5,47.69,1.0,"7,000",Small Town
+4634,Media Informatics (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,zweibrücken,65.0,1.0,26.83,6.0,"34,000",Medium Town
+4634,Media Informatics (MSc),Saarland University,saarbrücken,"1,81,959",City,82.0,English,4,0,pirmasens,77.5,2.5,44.78,3.0,"40,000",Medium Town
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,siegen,95.0,1.0,59.95,89.0,"1,02,560",Large Town
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,bonn,17.5,2.0,7.59,143.0,"3,36,465",City
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,köln (cologne),35.0,2.0,24.3,,"10,85,000",Metropolitan City
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,wuppertal,65.0,1.0,54.38,61.0,"3,55,000",City
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,gummersbach,65.0,1.0,38.46,8.0,"50,000",Medium Town
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,koblenz,85.0,1.0,55.01,33.0,"1,15,268",City
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,düsseldorf,65.0,1.0,57.87,467.0,"6,29,047",Metropolitan City
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,rheinbach,55.0,1.0,23.78,0.0,"27,000",Medium Town
+3799,Autonomous Systems (MSc),Hochschule Bonn-Rhein-Sieg,sankt augustin,"56,000",Medium Town,11.0,English,4,0,remagen,55.0,1.0,21.99,0.0,"17,000",Small Town
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,wuppertal,56.5,4.0,24.4,61.0,"3,55,000",City
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,kamp-lintfort,84.0,1.0,46.71,1.0,"38,000",Medium Town
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,dortmund,12.5,4.0,17.43,189.0,"5,93,317",City
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,gummersbach,105.0,2.5,55.91,8.0,"50,000",Medium Town
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,duisburg,30.0,2.0,32.4,102.0,"4,98,000",City
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,düsseldorf,45.0,2.0,42.04,467.0,"6,29,047",Metropolitan City
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,essen,12.5,4.0,14.41,154.0,"5,82,000",City
+7795,Applied IT Security,Ruhr-Universität Bochum,bochum,"364,000",City,39.0,English,6,,witten,12.5,4.0,9.45,6.0,"96,000",City
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,stuttgart,50.5,3.0,30.18,723.0,"6,32,865",City
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,nürtingen,35.0,2.0,23.99,61.0,"40,000",Medium Town
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,reutlingen,12.5,4.0,12.08,69.0,"1,15,000",City
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,riedlingen,105.0,1.0,51.38,0.0,"10,000",Small Town
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,pforzheim,105.0,1.0,48.62,20.0,"1,25,000",City
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,esslingen am neckar,55.0,2.0,31.0,7.0,"95,000",City
+6119,Bioinformatics (MSc),University Of Tübingen,tübingen,"91,077",City,56.0,English,4,1500,geislingen an der steige,90.0,1.0,58.92,2.0,"27,000",Medium Town
+9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,siegen,78.0,1.0,52.98,89.0,"1,02,560",Large Town
+9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,friedberg (hessen),47.5,1.0,52.71,4.0,"29,000",Medium Town
+9043,Business Informatics (MSc),Philipps-Universität Marburg,marburg,"76,000",Medium Town,34.0,English,4,0,gießen,23.0,2.0,25.7,33.0,"88,000",City
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,stuttgart,50.5,3.0,30.18,723.0,"6,32,865",City
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,nürtingen,35.0,2.0,23.99,61.0,"40,000",Medium Town
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,reutlingen,12.5,4.0,12.08,69.0,"1,15,000",City
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,riedlingen,105.0,1.0,51.38,0.0,"10,000",Small Town
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,pforzheim,105.0,1.0,48.62,20.0,"1,25,000",City
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,esslingen am neckar,55.0,2.0,31.0,7.0,"95,000",City
+5634,Machine Learning,University Of Tübingen,tübingen,"91,077",City,56.0,English,4,,geislingen an der steige,90.0,1.0,58.92,2.0,"27,000",Medium Town
+3862,Geospatial Technologies (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,3,1700,gütersloh,55.0,1.0,52.17,13.0,"1,02,393",Large Town
+3862,Geospatial Technologies (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,3,1700,dortmund,45.0,2.0,51.09,189.0,"5,93,317",City
+3862,Geospatial Technologies (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,3,1700,soest,65.0,1.0,54.63,13.0,"47,000",Medium Town
+3862,Geospatial Technologies (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,3,1700,osnabrück,35.0,2.0,44.98,43.0,"1,67,366",City
+3862,Geospatial Technologies (MSc),University Of Münster,münster,"3,20,946",City,236.0,English,3,1700,steinfurt,25.0,1.0,26.38,28.0,"34,000",Medium Town
+9838,"Intelligent Robotics, MEng",Deggendorf Institute Of Technology,cham,"17,000",Small Town,17.0,English,3,0,deggendorf,125.0,1.0,54.35,25.0,"36,000",Small Town
+9838,"Intelligent Robotics, MEng",Deggendorf Institute Of Technology,cham,"17,000",Small Town,17.0,English,3,0,regensburg,65.0,1.0,47.02,106.0,"1,57,443",City
+4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,"12,000",Small Town,0.0,English,3,0,deggendorf,185.0,1.0,39.12,25.0,"36,000",Small Town
+4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,"12,000",Small Town,0.0,English,3,0,passau,87.5,1.0,41.74,7.0,"52,000",Small Town
+4600,MSc Digital Health,Deggendorf Institute Of Technology,pfarrkirchen,"12,000",Small Town,0.0,English,3,0,burghausen¹,65.0,1.0,31.37,,,
+6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,berlin,24.0,2.5,26.14,1062.0,"37,55,251",Metropolitan City
+6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,wildau,60.0,1.0,40.21,1.0,"10,000",Small Town
+6262,"Cognitive Systems: Language, Learning, And Reasoning",University Of Potsdam,potsdam,"1,85,750",City,62.0,English,4,0,bergholz-rehbrücke,6.0,2.0,7.05,0.0,"8,000",Small Town
+4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bayreuth,93.0,1.0,58.18,15.0,"74,000",Medium Town
+4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,bamberg,35.0,2.0,34.32,14.0,"77,592",Medium Town
+4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,nürnberg,17.5,4.0,16.58,16.0,"5,18,000",City
+4407,"Medical Engineering: Imaging, Health & Data Analytics Or Robotics",FAU Erlangen-Nürnberg,erlangen,"1,16,562",City,88.0,English,4,0,ansbach,70.0,1.0,45.27,3.0,"41,000",Medium Town
+9595,Information Engineering,Technical University Of Munich,heilbronn,"126,000",City,171.0,English,4,0,stuttgart,41.5,2.0,40.56,723.0,"6,32,865",City
+9595,Information Engineering,Technical University Of Munich,heilbronn,"126,000",City,171.0,English,4,0,heidelberg,65.0,1.0,48.33,78.0,"1,62,273",City
+9595,Information Engineering,Technical University Of Munich,heilbronn,"126,000",City,171.0,English,4,0,nürtingen,67.5,1.0,58.0,61.0,"40,000",Medium Town
+9595,Information Engineering,Technical University Of Munich,heilbronn,"126,000",City,171.0,English,4,0,pforzheim,82.5,1.0,46.95,20.0,"1,25,000",City
+9595,Information Engineering,Technical University Of Munich,heilbronn,"126,000",City,171.0,English,4,0,esslingen am neckar,55.0,1.0,44.9,7.0,"95,000",City
+3724,Forest Information Technology (FIT),Eberswalde University For Sustainable Development,eberswalde,"40,000",Small Town,0.0,English,4,0,berlin,34.0,1.0,45.12,1062.0,"37,55,251",Metropolitan City
+3724,Forest Information Technology (FIT),Eberswalde University For Sustainable Development,eberswalde,"40,000",Small Town,0.0,English,4,0,wildau¹,95.0,1.0,58.24,,,
+6981,Satellite Technology (SaTec),Julius-Maximilians-Universität Würzburg,würzburg,"1,27,810",City,62.0,English,4,0,schweinfurt,24.0,2.0,36.44,11.0,"53,000",Medium Town
