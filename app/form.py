@@ -1,13 +1,14 @@
+from recommend import recommend_uni_by_uni
+from helper import get_university_dataframe, load_pickle_file
 import streamlit as st
+import numpy as np
+import pandas as pd
 
-def process_form_data(data):
-    st.write("Form Data Received:", data)
+university_dict = load_pickle_file('university_dict.pkl', 'rb')
 
-university_data = {
-    "uni 1": ["computer science", "data science"],
-    "uni 2": ["computer science"],
-    "uni 3": ["software engineering"]
-}
+universities_df = get_university_dataframe(university_dict)
+
+university_data = universities_df.groupby("Academy")["CourseNameShort"].apply(list).to_dict()
 
 st.title("UniForMe")
 
@@ -50,7 +51,6 @@ with user_preference:
             "Job Opportunities": job_opportunities,
             "Additional Summary": additional_summary
         }
-        process_form_data(form_data)
 
 
 with by_university:
@@ -66,4 +66,16 @@ with by_university:
             "Selected University": selected_university,
             "Selected Course": selected_course
         }
-        process_form_data(recommendation_data)
+        recommeded_result = recommend_uni_by_uni(recommendation_data["Selected University"], recommendation_data["Selected Course"])
+
+        if recommeded_result:
+            
+            st.write("### Recommended Universities and Courses:")
+            recommendations_df = pd.DataFrame(recommeded_result, index=np.arange(1, len(recommeded_result)+1))
+            st.table(recommendations_df)
+            
+            # st.write("### Recommended Universities and Courses:")
+            # for rec in recommeded_result:
+            #     st.write(f"- **{rec['Course Name']}** at **{rec['University']}**")
+        else:
+            st.write("No recommendations found.")
