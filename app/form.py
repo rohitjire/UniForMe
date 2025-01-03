@@ -1,4 +1,4 @@
-from recommend import recommend_uni_by_uni
+from recommend import recommend_for_paragraph, recommend_uni_by_uni
 from helper import get_university_dataframe, load_pickle_file
 import streamlit as st
 import numpy as np
@@ -12,45 +12,29 @@ university_data = universities_df.groupby("Academy")["CourseNameShort"].apply(li
 
 st.title("UniForMe")
 
-user_preference , by_university = st.tabs(["By User Preference", "By University"])
+user_preference, by_university, by_description = st.tabs(["By User Preference", "By University", "By Description"])
 
 with user_preference:
 
     with st.form("uni_form"):
-        course_type = st.radio("Course Type", ["Specialized", "General Computer Science"])
+        job_density_city = st.slider("Job Density in City", 0, 10, 5)
 
-        specialized_detail = None
-        if course_type == "Specialized":
-            specialized_detail = st.text_input("Please specify your specialization")
+        job_density_neighbour_city = st.slider("Job Density Neighbor Cities", 0, 10, 5)
 
-        language = st.multiselect("Preferred Language", ["English", "German"])
+        travel_connections = st.slider("Travel Connections", 0, 10, 5)
 
-        num_semesters = st.selectbox("Number of Semesters", [2, 3, 4, 5, 6, 7, 8])
+        city_importance = st.slider("City Importance ", 0, 10, 5)
 
-        fees = st.slider("Fees", 0, 10000, 5000)
-
-        uni_type = st.radio("University Type", ["Technical University/Technische Universitat", "Technische Hochshule/University of Applied Sciences"])
-
-        city_area = st.slider("City Area Preference", 0.0, 1.0, 0.5)
-
-        job_opportunities = st.slider("Job Opportunities", 0.0, 1.0, 0.5)
-
-        additional_summary = st.text_area("Additional Summary", placeholder="Enter any additional preferences or comments here...")
-
-        submitted = st.form_submit_button("Submit")
+        submitted = st.form_submit_button("Submit Preferences")
 
     if submitted:
         form_data = {
-            "Course Type": course_type,
-            "Specialze Subject" : specialized_detail,
-            "Language": language,
-            "Number of Semesters": num_semesters,
-            "Financials": fees,
-            "University Type": uni_type,
-            "City Area": city_area,
-            "Job Opportunities": job_opportunities,
-            "Additional Summary": additional_summary
+            "Job Density in City": job_density_city,
+            "Job Density Neighbor Cities": job_density_neighbour_city,
+            "Travel Connections": travel_connections,
+            "City Importance": city_importance
         }
+        st.write(form_data)
 
 
 with by_university:
@@ -77,5 +61,25 @@ with by_university:
             # st.write("### Recommended Universities and Courses:")
             # for rec in recommeded_result:
             #     st.write(f"- **{rec['Course Name']}** at **{rec['University']}**")
+        else:
+            st.write("No recommendations found.")
+            
+with by_description:
+    
+    description = st.text_area("Enter a paragraph describing your preferences",
+                                placeholder="I am passionate about data science and analytics, with hands-on experience in data preprocessing, statistical modeling...",
+                                height=200)
+
+    if st.button("Submit Description"):
+        recommendations = recommend_for_paragraph(description)
+        
+        if recommendations:
+            st.write("### Recommended Courses:")
+            recommendations_df = pd.DataFrame(recommendations, index=np.arange(1, len(recommendations)+1))
+            st.table(recommendations_df)
+            
+            # st.write("### Recommended Courses:")
+            # for rec in recommendations:
+            #     st.write(f"- **{rec['Course Name']}** at **{rec['University']}** with **{rec['Similarity (%)']}%** similarity")
         else:
             st.write("No recommendations found.")
