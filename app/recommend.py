@@ -22,8 +22,9 @@ def recommend_uni_by_uni(uni, course_name):
 
     recommendations = [
         {
+            "University": universities_df.iloc[i[0]].Academy,
             "Course Name": universities_df.iloc[i[0]].CourseNameShort,
-            "University": universities_df.iloc[i[0]].Academy
+            "Similarity Score (%)": round(i[1] * 100, 2)
         }
         for i in uni_list
     ]
@@ -40,8 +41,8 @@ def recommend_for_paragraph(paragraph):
     
     recommendations = [
         {
-            "Course Name": universities_df.iloc[i[0]].CourseNameShort,
             "University": universities_df.iloc[i[0]].Academy,
+            "Course Name": universities_df.iloc[i[0]].CourseNameShort,
             "Similarity Score (%)": round(i[1] * 100, 2)
         }
         for i in top_indices

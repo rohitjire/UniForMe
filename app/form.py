@@ -19,7 +19,7 @@ with user_preference:
     with st.form("uni_form"):
         job_density_city = st.slider("Job Density in City", 0, 10, 5)
 
-        job_density_neighbour_city = st.slider("Job Density Neighbor Cities", 0, 10, 5)
+        job_density_neighbour_city = st.slider("Job Density in Neighbor Cities", 0, 10, 5)
 
         travel_connections = st.slider("Travel Connections", 0, 10, 5)
 
