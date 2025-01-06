@@ -1,9 +1,17 @@
-from recommend import recommend_for_paragraph, recommend_uni_by_uni
+from recommend import recommend_by_user_preference, recommend_for_paragraph, recommend_uni_by_uni
 from helper import get_university_dataframe, load_pickle_file
 import streamlit as st
 import numpy as np
 import pandas as pd
 
+## Page Configurations
+st.set_page_config(
+    page_title="UniForMe - University Recommendation System",
+    page_icon="🎓",
+    layout="wide",
+)
+
+## Data Loading
 university_dict = load_pickle_file('university_dict.pkl', 'rb')
 
 universities_df = get_university_dataframe(university_dict)
@@ -14,6 +22,8 @@ st.title("UniForMe")
 
 user_preference, by_university, by_description = st.tabs(["By User Preference", "By University", "By Description"])
 
+
+## UI Components
 with user_preference:
 
     with st.form("uni_form"):
@@ -28,13 +38,23 @@ with user_preference:
         submitted = st.form_submit_button("Submit Preferences")
 
     if submitted:
-        form_data = {
-            "Job Density in City": job_density_city,
-            "Job Density Neighbor Cities": job_density_neighbour_city,
-            "Travel Connections": travel_connections,
-            "City Importance": city_importance
-        }
-        st.write(form_data)
+        
+        total_score = job_density_city + job_density_neighbour_city + travel_connections + city_importance
+
+        if total_score > 10:
+            st.error("The total score of all inputs exceeds 10. Please adjust the values so that the summation is equal to 10.")
+        elif total_score < 10:
+            st.error("The total score of all inputs is less than 10. Please adjust the values so that the summation is equal to 10.")
+        else:
+            form_data = {
+                "Jobs in City": job_density_city,
+                "Job_Density_Neighbor": job_density_neighbour_city,
+                "Connectivity_Score": travel_connections,
+                "City_Importance_Score": city_importance
+            }
+            recommendations = recommend_by_user_preference(form_data)
+            st.write("### Recommended Universities and Courses:")
+            st.write(recommendations)
 
 
 with by_university:
@@ -58,9 +78,6 @@ with by_university:
             recommendations_df = pd.DataFrame(recommeded_result, index=np.arange(1, len(recommeded_result)+1))
             st.table(recommendations_df)
             
-            # st.write("### Recommended Universities and Courses:")
-            # for rec in recommeded_result:
-            #     st.write(f"- **{rec['Course Name']}** at **{rec['University']}**")
         else:
             st.write("No recommendations found.")
             
@@ -74,12 +91,10 @@ with by_description:
         recommendations = recommend_for_paragraph(description)
         
         if recommendations:
-            st.write("### Recommended Courses:")
+            st.write("### Recommended Universities and Courses:")
             recommendations_df = pd.DataFrame(recommendations, index=np.arange(1, len(recommendations)+1))
             st.table(recommendations_df)
             
-            # st.write("### Recommended Courses:")
-            # for rec in recommendations:
-            #     st.write(f"- **{rec['Course Name']}** at **{rec['University']}** with **{rec['Similarity (%)']}%** similarity")
         else:
             st.write("No recommendations found.")
+            

@@ -1,13 +1,19 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from helper import get_university_dataframe, load_pickle_file
+import numpy as np
 
-
+# load pickle files
 university_dict = load_pickle_file('university_dict.pkl', 'rb')
+
+university_by_user_dict = load_pickle_file('university_by_user_dict.pkl', 'rb')
 
 similarity = load_pickle_file('by_uni_similarity.pkl', 'rb')
 
+# get university dataframes
 universities_df = get_university_dataframe(university_dict)
+
+universities_by_user_df = get_university_dataframe(university_by_user_dict)
 
 tfidf = TfidfVectorizer(max_features=5000, stop_words='english')
 
@@ -48,3 +54,29 @@ def recommend_for_paragraph(paragraph):
         for i in top_indices
     ]
     return recommendations
+
+
+def recommend_by_user_preference(weights):
+    
+    weights['Jobs in City'] = weights.get('Jobs in City') / 10
+    weights['Job_Density_Neighbor'] = weights.get('Job_Density_Neighbor') / 10
+    weights['Connectivity_Score'] = weights.get('Connectivity_Score') / 10
+    weights['City_Importance_Score'] = weights.get('City_Importance_Score') / 10
+    
+    universities_by_user_df['Recommendation_Score'] = (
+    weights['Jobs in City'] * universities_by_user_df['Jobs in City'] +
+    weights['Job_Density_Neighbor'] * universities_by_user_df['Job_Density_Neighbor'] +
+    weights['Connectivity_Score'] * universities_by_user_df['Connectivity_Score'] +
+    weights['City_Importance_Score'] * universities_by_user_df['City_Importance_Score']  
+    )
+    
+    recommended_universities = universities_by_user_df.sort_values(by='Recommendation_Score', ascending=False)
+
+    recomendations = recommended_universities[['Academy', 'CourseNameShort', 'City', 'Recommendation_Score']].head(10)
+    
+    recomendations.rename(columns={'CourseNameShort': 'Course Name', 'Academy': 'University', 'City': 'City', 'Recommendation_Score': 'Recommendation Score'}, inplace=True)
+    recomendations.index = np.arange(1, len(recomendations) + 1)
+    recomendations['City'] = recomendations['City'].str.title()
+    recomendations['Recommendation Score'] = recomendations['Recommendation Score'].apply(lambda x: round(x * 100, 2))
+    
+    return recomendations
