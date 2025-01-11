@@ -1,5 +1,5 @@
-from recommend import recommend_by_user_preference, recommend_for_paragraph, recommend_uni_by_uni
-from helper import get_university_dataframe, load_pickle_file
+from recommend import get_university_neighbour, recommend_by_user_preference, recommend_for_paragraph, recommend_uni_by_uni
+from helper import get_university_dataframe, load_pickle_file, normalize_weights
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -19,21 +19,43 @@ universities_df = get_university_dataframe(university_dict)
 university_data = universities_df.groupby("Academy")["CourseNameShort"].apply(list).to_dict()
 
 st.title("UniForMe")
+st.write("Welcome to UniForMe, a university recommendation system that helps you find the best german universities for masters in computer science courses based on your preferences.")
 
-user_preference, by_university, by_description = st.tabs(["By User Preference", "By University", "By Description"])
+user_preference, check_university_neighbour, by_university, by_description = st.tabs(["By User Preference", "Check University Neighbour", "By University", "By Description"])
 
 
 ## UI Components
 with user_preference:
 
     with st.form("uni_form"):
-        job_density_city = st.slider("Job Density in City", 0, 10, 5)
+                
+        job_density_city = st.slider("How important is it for your city to have strong job prospects in your field?", 0, 10, 5)
+        with st.expander("See explanation"):
+            st.write('''
+                1 : Jobs don’t matter my focus is education. \n
+                10: The city must have a thriving job market with ample opportunities.
+            ''')
+            
+        job_density_neighbour_city = st.slider("How important are job opportunities in cities close to your university?", 0, 10, 5)
+        with st.expander("See explanation"):
+            st.write('''
+                1 : I don’t care about job opportunities in neighboring cities. \n
+                10: I want to have a variety of job opportunities in neighboring cities.
+            ''')
 
-        job_density_neighbour_city = st.slider("Job Density in Neighbor Cities", 0, 10, 5)
+        travel_connections = st.slider("How well-connected should your university’s location be?", 0, 10, 5)
+        with st.expander("See explanation"):
+            st.write('''
+                1 : I don’t care about travel connections. \n
+                10: I want to have easy access to public transport and airports.
+            ''')
 
-        travel_connections = st.slider("Travel Connections", 0, 10, 5)
-
-        city_importance = st.slider("City Importance ", 0, 10, 5)
+        city_importance = st.slider("Do you prefer your university in a small town, city, or metro area?", 0, 10, 5)
+        with st.expander("See explanation"):
+            st.write('''
+                I prefer small-town simplicity and peace. \n
+                I need a vibrant metropolitan lifestyle with dynamic opportunities.
+            ''')
 
         submitted = st.form_submit_button("Submit Preferences")
 
@@ -41,21 +63,34 @@ with user_preference:
         
         total_score = job_density_city + job_density_neighbour_city + travel_connections + city_importance
 
-        if total_score > 10:
-            st.error("The total score of all inputs exceeds 10. Please adjust the values so that the summation is equal to 10.")
-        elif total_score < 10:
-            st.error("The total score of all inputs is less than 10. Please adjust the values so that the summation is equal to 10.")
-        else:
-            form_data = {
-                "Jobs in City": job_density_city,
-                "Job_Density_Neighbor": job_density_neighbour_city,
-                "Connectivity_Score": travel_connections,
-                "City_Importance_Score": city_importance
-            }
-            recommendations = recommend_by_user_preference(form_data)
-            st.write("### Recommended Universities and Courses:")
-            st.write(recommendations)
+        # if total_score > 10:
+        #     st.error("The total score of all inputs exceeds 10. Please adjust the values so that the summation is equal to 10.")
+        # elif total_score < 10:
+        #     st.error("The total score of all inputs is less than 10. Please adjust the values so that the summation is equal to 10.")
+        # else:
 
+        form_data = {
+            "Jobs in City": job_density_city,
+            "Job_Density_Neighbor": job_density_neighbour_city,
+            "Connectivity_Score": travel_connections,
+            "City_Importance_Score": city_importance
+        }
+        normalized_weights = normalize_weights(form_data)
+        recommendations = recommend_by_user_preference(normalized_weights)
+        st.write("### Recommended Universities and Courses:")
+        st.write(recommendations)
+        
+        
+with check_university_neighbour:
+    
+    selected_university = st.selectbox("Select a University", options=list(university_data.keys()), key="university_neighbour_selector")
+    
+    if st.button("Submit"):
+        
+        neighbour_university = get_university_neighbour(selected_university)
+        
+        st.write("### Neighbour Universities:")
+        st.write(neighbour_university)   
 
 with by_university:
 

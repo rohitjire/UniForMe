@@ -2,11 +2,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from helper import get_university_dataframe, load_pickle_file
 import numpy as np
+import pandas as pd
 
 # load pickle files
 university_dict = load_pickle_file('university_dict.pkl', 'rb')
 
 university_by_user_dict = load_pickle_file('university_by_user_dict.pkl', 'rb')
+
+university_dataset_dict = load_pickle_file('university_dict_dataset.pkl', 'rb')
 
 similarity = load_pickle_file('by_uni_similarity.pkl', 'rb')
 
@@ -58,10 +61,10 @@ def recommend_for_paragraph(paragraph):
 
 def recommend_by_user_preference(weights):
     
-    weights['Jobs in City'] = weights.get('Jobs in City') / 10
-    weights['Job_Density_Neighbor'] = weights.get('Job_Density_Neighbor') / 10
-    weights['Connectivity_Score'] = weights.get('Connectivity_Score') / 10
-    weights['City_Importance_Score'] = weights.get('City_Importance_Score') / 10
+    weights['Jobs in City'] = weights.get('Jobs in City')
+    weights['Job_Density_Neighbor'] = weights.get('Job_Density_Neighbor')
+    weights['Connectivity_Score'] = weights.get('Connectivity_Score')
+    weights['City_Importance_Score'] = weights.get('City_Importance_Score')
     
     universities_by_user_df['Recommendation_Score'] = (
     weights['Jobs in City'] * universities_by_user_df['Jobs in City'] +
@@ -80,3 +83,28 @@ def recommend_by_user_preference(weights):
     recomendations['Recommendation Score'] = recomendations['Recommendation Score'].apply(lambda x: round(x * 100, 2))
     
     return recomendations
+
+def get_university_neighbour(univeristy_name):
+     
+    university_df = get_university_dataframe(university_dataset_dict)
+    
+    uni = university_df[university_df['Academy'] == univeristy_name]
+    
+    neighbours = uni[['To','Time','Distance (km)','Jobs in neighbour cities','NeighbourCity_Population','NeighbourCity_Type']].drop_duplicates()
+        
+    sort_order = ['Metropolitan City', 'City', 'Medium Town', 'Small Town']
+    
+    neighbours['NeighbourCity_Type'] = pd.Categorical(neighbours['NeighbourCity_Type'], categories=sort_order, ordered=True)
+
+    neighbours['NeighbourCity_Population'] = neighbours['NeighbourCity_Population'].str.replace(',', '').astype(int)
+
+    neighbours = neighbours.sort_values(by=['NeighbourCity_Type', 'NeighbourCity_Population'], ascending=[True, False])
+    
+    neighbours.rename(columns={'To': 'Neighbour City', 'Time': 'Time (min)', 'Distance (km)': 'Distance (km)', 'Jobs in neighbour cities': 'Jobs in Neighbour Cities',
+    'NeighbourCity_Population': 'Neighbour City Population', 'NeighbourCity_Type': 'Neighbour City Type'}, inplace=True)
+    
+    neighbours['Neighbour City'] = neighbours['Neighbour City'].str.title()
+    
+    neighbours.index = np.arange(1, len(neighbours) + 1)
+    
+    return neighbours
