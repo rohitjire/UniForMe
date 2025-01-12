@@ -1,5 +1,5 @@
-from recommend import get_university_neighbour, recommend_by_user_preference, recommend_for_paragraph, recommend_uni_by_uni
-from helper import get_university_dataframe, load_pickle_file, normalize_weights
+from helper import get_university_dataframe, normalize_weights
+from recommend import Recommender
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -11,15 +11,82 @@ st.set_page_config(
     layout="wide",
 )
 
-## Data Loading
-university_dict = load_pickle_file('university_dict.pkl', 'rb')
+recommender = Recommender(
+    'university_dict.pkl', 
+    'university_by_user_dict.pkl', 
+    'university_dict_dataset.pkl'
+)
 
-universities_df = get_university_dataframe(university_dict)
+universities_df = get_university_dataframe(recommender.university_dict)
 
 university_data = universities_df.groupby("Academy")["CourseNameShort"].apply(list).to_dict()
 
-st.title("UniForMe")
-st.write("Welcome to UniForMe, a university recommendation system that helps you find the best german universities for masters in computer science courses based on your preferences.")
+title_style = """
+    <style>
+    .title-container {
+        text-align: center;
+        margin-top: -50px;
+        margin-bottom: 20px;
+    }
+    .title {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #FF4B4B; /* Cool red color */
+    }
+    .subtitle {
+        font-size: 1.5rem;
+        color: #6C757D; /* Cool grey for the subtitle */
+        font-style: italic;
+    }
+    </style>
+"""
+st.markdown(title_style, unsafe_allow_html=True)
+st.markdown(
+    """
+    <div class="title-container">
+        <div class="title">UniForMe</div>
+        <div class="subtitle">Your Personalized University Recommendation System</div>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+# Custom CSS for the landing page description
+description_style = """
+    <style>
+    .description-container {
+        text-align: center;
+        padding: 20px;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .description-text {
+        font-size: 1.2rem;
+        color: #6C757D;
+        line-height: 1.8;
+        margin-top: 10px;
+    }
+    </style>
+"""
+
+st.markdown(description_style, unsafe_allow_html=True)
+
+st.markdown(
+    """
+    <div class="description-container">
+        <div class="description-text">
+            UniForMe is an AI-driven university recommendation system designed to help you discover the best German universities 
+            for pursuing a master's degree in computer science. Tailored to your preferences, the system considers factors like 
+            job density, travel connections, and city importance to provide personalized recommendations.
+            <br><br>
+            Whether you're looking for a vibrant city with ample job opportunities or a quiet town with a strong academic focus, 
+            UniForMe ensures you make an informed decision for your future. Let's find your dream university together!
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 
 user_preference, check_university_neighbour, by_university, by_description = st.tabs(["By User Preference", "Check University Neighbour", "By University", "By Description"])
 
@@ -53,22 +120,14 @@ with user_preference:
         city_importance = st.slider("Do you prefer your university in a small town, city, or metro area?", 0, 10, 5)
         with st.expander("See explanation"):
             st.write('''
-                I prefer small-town simplicity and peace. \n
-                I need a vibrant metropolitan lifestyle with dynamic opportunities.
+                1 : I prefer small-town simplicity and peace. \n
+                10 : I need a vibrant metropolitan lifestyle with dynamic opportunities.
             ''')
 
         submitted = st.form_submit_button("Submit Preferences")
 
     if submitted:
         
-        total_score = job_density_city + job_density_neighbour_city + travel_connections + city_importance
-
-        # if total_score > 10:
-        #     st.error("The total score of all inputs exceeds 10. Please adjust the values so that the summation is equal to 10.")
-        # elif total_score < 10:
-        #     st.error("The total score of all inputs is less than 10. Please adjust the values so that the summation is equal to 10.")
-        # else:
-
         form_data = {
             "Jobs in City": job_density_city,
             "Job_Density_Neighbor": job_density_neighbour_city,
@@ -76,9 +135,11 @@ with user_preference:
             "City_Importance_Score": city_importance
         }
         normalized_weights = normalize_weights(form_data)
-        recommendations = recommend_by_user_preference(normalized_weights)
+        recommendations = recommender.recommend_by_user_preference(normalized_weights)
         st.write("### Recommended Universities and Courses:")
+        st.caption("Disclaimer: Our AI has curated these recommendations for you. Verify the details to ensure they match your expectations.")
         st.write(recommendations)
+
         
         
 with check_university_neighbour:
@@ -87,9 +148,10 @@ with check_university_neighbour:
     
     if st.button("Submit"):
         
-        neighbour_university = get_university_neighbour(selected_university)
+        neighbour_university = recommender.get_university_neighbour(selected_university)
         
         st.write("### Neighbour Universities:")
+        st.caption("Disclaimer: We've generated this data for you using AI! Be sure to review and confirm it before making decisions.")
         st.write(neighbour_university)   
 
 with by_university:
@@ -105,12 +167,13 @@ with by_university:
             "Selected University": selected_university,
             "Selected Course": selected_course
         }
-        recommeded_result = recommend_uni_by_uni(recommendation_data["Selected University"], recommendation_data["Selected Course"])
+        recommeded_result = recommender.recommend_by_uni_and_course(recommendation_data["Selected University"], recommendation_data["Selected Course"])
 
         if recommeded_result:
             
             st.write("### Recommended Universities and Courses:")
             recommendations_df = pd.DataFrame(recommeded_result, index=np.arange(1, len(recommeded_result)+1))
+            st.caption("Disclaimer: Our AI has curated these recommendations for you. Verify the details to ensure they match your expectations.")
             st.table(recommendations_df)
             
         else:
@@ -123,13 +186,39 @@ with by_description:
                                 height=200)
 
     if st.button("Submit Description"):
-        recommendations = recommend_for_paragraph(description)
+        
+        if description == "":
+            st.error("Please enter a paragraph describing your preferences.")
+            st.stop()
+        
+        recommendations = recommender.recommend_by_paragraph(description)
         
         if recommendations:
             st.write("### Recommended Universities and Courses:")
             recommendations_df = pd.DataFrame(recommendations, index=np.arange(1, len(recommendations)+1))
+            st.caption("Disclaimer: Our AI has curated these recommendations for you. Verify the details to ensure they match your expectations.")
             st.table(recommendations_df)
             
         else:
             st.write("No recommendations found.")
-            
+
+
+
+
+footer_style = """
+    <style>
+    .footer {
+        position: relative;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #0e1117;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    </style>
+"""
+st.markdown(footer_style, unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with ❤️ by <b>Rohit, Gaurav and Hetvi</b></div>', unsafe_allow_html=True)
